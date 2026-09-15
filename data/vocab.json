@@ -1,0 +1,8216 @@
+[
+    {
+        "Chinese": "大",
+        "Pinyin": "dà",
+        "English": "big",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "多",
+        "Pinyin": "duō",
+        "English": "many",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "高兴",
+        "Pinyin": "gāoxìng",
+        "English": "happy",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "好",
+        "Pinyin": "hǎo",
+        "English": "good",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "冷",
+        "Pinyin": "lěng",
+        "English": "cold",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "漂亮",
+        "Pinyin": "piàoliang",
+        "English": "pretty",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "热",
+        "Pinyin": "rè",
+        "English": "hot",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "少",
+        "Pinyin": "shǎo",
+        "English": "few",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "小",
+        "Pinyin": "xiǎo",
+        "English": "small",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "白",
+        "Pinyin": "bái",
+        "English": "white",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "长",
+        "Pinyin": "cháng",
+        "English": "long",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "对",
+        "Pinyin": "duì",
+        "English": "correct",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "高",
+        "Pinyin": "gāo",
+        "English": "tall, high",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "贵",
+        "Pinyin": "guì",
+        "English": "expensive; noble",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "好吃",
+        "Pinyin": "hǎochī",
+        "English": "tasty, delicious",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "黑",
+        "Pinyin": "hēi",
+        "English": "black; dark; shady, illegal",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "红",
+        "Pinyin": "hóng",
+        "English": "red; popular; revolutionary",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "近",
+        "Pinyin": "jìn",
+        "English": "nearby, close",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "快",
+        "Pinyin": "kuài",
+        "English": "quick",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "快乐",
+        "Pinyin": "kuàilè",
+        "English": "happy",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "累",
+        "Pinyin": "lèi",
+        "English": "tired",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "慢",
+        "Pinyin": "màn",
+        "English": "slow",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "忙",
+        "Pinyin": "máng",
+        "English": "busy",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "便宜",
+        "Pinyin": "piányi",
+        "English": "cheap, inexpensive",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "新",
+        "Pinyin": "xīn",
+        "English": "new",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "远",
+        "Pinyin": "yuǎn",
+        "English": "far",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "矮",
+        "Pinyin": "ǎi",
+        "English": "short",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "安静",
+        "Pinyin": "ānjìng",
+        "English": "quiet",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "饱",
+        "Pinyin": "bǎo",
+        "English": "full (from eating)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "聪明",
+        "Pinyin": "cōngming",
+        "English": "smart, intelligent",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "低",
+        "Pinyin": "dī",
+        "English": "low",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "短",
+        "Pinyin": "duǎn",
+        "English": "short",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "饿",
+        "Pinyin": "è",
+        "English": "to be hungry; hungry",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "方便",
+        "Pinyin": "fāngbiàn",
+        "English": "convenient",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "干净",
+        "Pinyin": "gānjìng",
+        "English": "clean, neat",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "高兴",
+        "Pinyin": "gāoxìng",
+        "English": "happy",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "坏",
+        "Pinyin": "huài",
+        "English": "bad; spoiled; broken; to break (down)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "黄",
+        "Pinyin": "huáng",
+        "English": "yellow",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "简单",
+        "Pinyin": "jiǎndān",
+        "English": "simple",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "健康",
+        "Pinyin": "jiànkāng",
+        "English": "healthy; health",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "久",
+        "Pinyin": "jiǔ",
+        "English": "long (time)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "旧",
+        "Pinyin": "jiù",
+        "English": "old and worn out",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "渴",
+        "Pinyin": "kě",
+        "English": "thirsty",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "可爱",
+        "Pinyin": "kě'ài",
+        "English": "lovable, cute",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "蓝",
+        "Pinyin": "lán",
+        "English": "blue",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "老",
+        "Pinyin": "lǎo",
+        "English": "old",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "绿",
+        "Pinyin": "lǜ",
+        "English": "green",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "难",
+        "Pinyin": "nán",
+        "English": "difficult",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "难过",
+        "Pinyin": "nánguò",
+        "English": "to feel upset",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "年轻",
+        "Pinyin": "niánqīng",
+        "English": "youthful",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "努力",
+        "Pinyin": "nǔlì",
+        "English": "to try hard, to strive",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "胖",
+        "Pinyin": "pàng",
+        "English": "fat, chubby",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "便宜",
+        "Pinyin": "piányi",
+        "English": "cheap, inexpensive",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "奇怪",
+        "Pinyin": "qíguài",
+        "English": "strange, odd; to be baffled",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "清楚",
+        "Pinyin": "qīngchu",
+        "English": "clear",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "认真",
+        "Pinyin": "rènzhēn",
+        "English": "serious; seriously",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "热情",
+        "Pinyin": "rèqíng",
+        "English": "enthusiastic, passionate, super friendly",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "容易",
+        "Pinyin": "róngyì",
+        "English": "easy",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "瘦",
+        "Pinyin": "shòu",
+        "English": "thin",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "舒服",
+        "Pinyin": "shūfu",
+        "English": "comfortable; pleasant-feeling; feeling well",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "甜",
+        "Pinyin": "tián",
+        "English": "sweet",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "突然",
+        "Pinyin": "tūrán",
+        "English": "sudden; suddenly",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "小心",
+        "Pinyin": "xiǎoxīn",
+        "English": "to be careful",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "新鲜",
+        "Pinyin": "xīnxiān",
+        "English": "fresh",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "一般",
+        "Pinyin": "yībān",
+        "English": "in general; average",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "一样",
+        "Pinyin": "yīyàng",
+        "English": "the same (as)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "有名",
+        "Pinyin": "yǒumíng",
+        "English": "famous, well-known",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "着急",
+        "Pinyin": "zháojí",
+        "English": "to be anxious",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "真",
+        "Pinyin": "zhēn",
+        "English": "really, truly; real",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "重要",
+        "Pinyin": "zhòngyào",
+        "English": "important",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "主要",
+        "Pinyin": "zhǔyào",
+        "English": "main; mainly",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "安全",
+        "Pinyin": "ānquán",
+        "English": "safe",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "棒",
+        "Pinyin": "bàng",
+        "English": "great",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "笨",
+        "Pinyin": "bèn",
+        "English": "stupid",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "成功",
+        "Pinyin": "chénggōng",
+        "English": "successful",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "诚实",
+        "Pinyin": "chéngshí",
+        "English": "honest",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "粗心",
+        "Pinyin": "cūxīn",
+        "English": "careless, thoughtless",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "得意",
+        "Pinyin": "déyì",
+        "English": "proud of oneself; pleased with oneself; complacent",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "低",
+        "Pinyin": "dī",
+        "English": "low",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "烦恼",
+        "Pinyin": "fánnǎo",
+        "English": "annoyances, pains, troubling matters",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "丰富",
+        "Pinyin": "fēngfù",
+        "English": "abundant",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "富",
+        "Pinyin": "fù",
+        "English": "rich",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "复杂",
+        "Pinyin": "fùzá",
+        "English": "complicated, complex",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "共同",
+        "Pinyin": "gòngtóng",
+        "English": "joint, in common",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "合格",
+        "Pinyin": "hégé",
+        "English": "qualified, up to standard",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "合适",
+        "Pinyin": "héshì",
+        "English": "suitable",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "厚",
+        "Pinyin": "hòu",
+        "English": "thick, deep",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "火",
+        "Pinyin": "huǒ",
+        "English": "popular, hot",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "活泼",
+        "Pinyin": "huópo",
+        "English": "lively",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "假",
+        "Pinyin": "jiǎ",
+        "English": "fake",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "骄傲",
+        "Pinyin": "jiāoào",
+        "English": "proud",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "激动",
+        "Pinyin": "jīdòng",
+        "English": "excited",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "积极",
+        "Pinyin": "jījí",
+        "English": "active; positive",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "精彩",
+        "Pinyin": "jīngcǎi",
+        "English": "spectacular, wonderful",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "紧张",
+        "Pinyin": "jǐnzhāng",
+        "English": "nervous, tense; strained",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "开心",
+        "Pinyin": "kāixīn",
+        "English": "happy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "可怜",
+        "Pinyin": "kělián",
+        "English": "pitiful, poor",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "可惜",
+        "Pinyin": "kěxī",
+        "English": "such a shame, unfortunately",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "空",
+        "Pinyin": "kōng",
+        "English": "empty",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "苦",
+        "Pinyin": "kǔ",
+        "English": "bitter, hardship",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "困",
+        "Pinyin": "kùn",
+        "English": "sleepy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "辣",
+        "Pinyin": "là",
+        "English": "spicy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "懒",
+        "Pinyin": "lǎn",
+        "English": "lazy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "浪漫",
+        "Pinyin": "làngmàn",
+        "English": "romantic",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "冷静",
+        "Pinyin": "lěngjìng",
+        "English": "calm; cool-headed",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "凉快",
+        "Pinyin": "liángkuai",
+        "English": "cool (temperature)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "厉害",
+        "Pinyin": "lìhai",
+        "English": "impressive, awesome; tremendous",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "礼貌",
+        "Pinyin": "lǐmào",
+        "English": "polite",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "流利",
+        "Pinyin": "liúlì",
+        "English": "fluent",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "乱",
+        "Pinyin": "luàn",
+        "English": "chaotic, messy, disorganized",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "麻烦",
+        "Pinyin": "máfan",
+        "English": "troublesome",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "马虎",
+        "Pinyin": "mǎhu",
+        "English": "careless",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "美丽",
+        "Pinyin": "měilì",
+        "English": "beautiful",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "免费",
+        "Pinyin": "miǎnfèi",
+        "English": "free",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "难受",
+        "Pinyin": "nánshòu",
+        "English": "to feel unwell;to suffer pain;to be difficult to bear",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "暖",
+        "Pinyin": "nuǎn",
+        "English": "warm",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "暖和",
+        "Pinyin": "nuǎnhuo",
+        "English": "warm",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "破",
+        "Pinyin": "pò",
+        "English": "worn out, lousy; to break",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "普遍",
+        "Pinyin": "pǔbiàn",
+        "English": "universal; general; widespread; common",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "轻",
+        "Pinyin": "qīng",
+        "English": "light, easy, gentle, soft",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "轻松",
+        "Pinyin": "qīngsōng",
+        "English": "gentle, relaxed",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "穷",
+        "Pinyin": "qióng",
+        "English": "poor",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "热闹",
+        "Pinyin": "rènao",
+        "English": "bustling with noise and excitement;lively",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "伤心",
+        "Pinyin": "shāngxīn",
+        "English": "sad",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "深",
+        "Pinyin": "shēn",
+        "English": "deep",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "失望",
+        "Pinyin": "shīwàng",
+        "English": "disappointed",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "帅",
+        "Pinyin": "shuài",
+        "English": "handsome",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "顺利",
+        "Pinyin": "shùnlì",
+        "English": "smooth; smoothly",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "死",
+        "Pinyin": "sǐ",
+        "English": "rigid, inflexible",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "酸",
+        "Pinyin": "suān",
+        "English": "sour; sore; acid",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "随便",
+        "Pinyin": "suíbiàn",
+        "English": "as one pleases",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "所有",
+        "Pinyin": "suǒyǒu",
+        "English": "all",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "危险",
+        "Pinyin": "wēixiǎn",
+        "English": "dangerous",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "无聊",
+        "Pinyin": "wúliáo",
+        "English": "boring; bored",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "咸",
+        "Pinyin": "xián",
+        "English": "salty",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "香",
+        "Pinyin": "xiāng",
+        "English": "fragrant, good-smelling",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "相同",
+        "Pinyin": "xiāngtóng",
+        "English": "same, identical",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "详细",
+        "Pinyin": "xiángxì",
+        "English": "detailed",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "兴奋",
+        "Pinyin": "xīngfèn",
+        "English": "excited",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "幸福",
+        "Pinyin": "xìngfú",
+        "English": "happy (in the fairytale sense)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "辛苦",
+        "Pinyin": "xīnkǔ",
+        "English": "to be a lot of hard work, toilsome",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "严格",
+        "Pinyin": "yángé",
+        "English": "strict",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "阳光",
+        "Pinyin": "yángguāng",
+        "English": "sunshine",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "严重",
+        "Pinyin": "yánzhòng",
+        "English": "serious",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "勇敢",
+        "Pinyin": "yǒnggǎn",
+        "English": "brave",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "友好",
+        "Pinyin": "yǒuhǎo",
+        "English": "friendly",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "幽默",
+        "Pinyin": "yōumò",
+        "English": "humorous",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "有趣",
+        "Pinyin": "yǒuqù",
+        "English": "interesting, amusing",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "优秀",
+        "Pinyin": "yōuxiù",
+        "English": "outstanding, excellent",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "原来",
+        "Pinyin": "yuánlái",
+        "English": "formerly, original",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "愉快",
+        "Pinyin": "yúkuài",
+        "English": "pleasant, happy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "脏",
+        "Pinyin": "zāng",
+        "English": "dirty",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "正常",
+        "Pinyin": "zhèngcháng",
+        "English": "normal",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "正确",
+        "Pinyin": "zhèngquè",
+        "English": "correct, right",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "正式",
+        "Pinyin": "zhèngshì",
+        "English": "formal",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "真正",
+        "Pinyin": "zhēnzhèng",
+        "English": "real, true",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "直接",
+        "Pinyin": "zhíjiē",
+        "English": "directly",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "重",
+        "Pinyin": "zhòng",
+        "English": "heavy; strong (accent, scent, flavor, etc.)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "专业",
+        "Pinyin": "zhuānyè",
+        "English": "professional",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "著名",
+        "Pinyin": "zhùmíng",
+        "English": "famous",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "准确",
+        "Pinyin": "zhǔnquè",
+        "English": "accurate, precise",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "准时",
+        "Pinyin": "zhǔnshí",
+        "English": "on time; punctual",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "仔细",
+        "Pinyin": "zǐxì",
+        "English": "careful",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "自信",
+        "Pinyin": "zìxìn",
+        "English": "to be self-confident",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "不",
+        "Pinyin": "bù",
+        "English": "no, not",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "没有",
+        "Pinyin": "méiyǒu",
+        "English": "did not",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "很",
+        "Pinyin": "hěn",
+        "English": "very",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "太",
+        "Pinyin": "tài",
+        "English": "too",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "都",
+        "Pinyin": "dōu",
+        "English": "all",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "别",
+        "Pinyin": "bié",
+        "English": "do not (do something)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "非常",
+        "Pinyin": "fēicháng",
+        "English": "very, extremely",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "还",
+        "Pinyin": "hái",
+        "English": "still; in addition; even",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "就",
+        "Pinyin": "jiù",
+        "English": "just (emphasis); only",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "也",
+        "Pinyin": "yě",
+        "English": "also",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "已经",
+        "Pinyin": "yǐjīng",
+        "English": "already",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "一起",
+        "Pinyin": "yīqǐ",
+        "English": "together",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "再",
+        "Pinyin": "zài",
+        "English": "again; another; then",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "真",
+        "Pinyin": "zhēn",
+        "English": "really, truly; real",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "正在",
+        "Pinyin": "zhèngzài",
+        "English": "in the process of (doing something)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "最",
+        "Pinyin": "zuì",
+        "English": "most, -est",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "比较",
+        "Pinyin": "bǐjiào",
+        "English": "to compare; comparatively",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "必须",
+        "Pinyin": "bìxū",
+        "English": "must",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "才",
+        "Pinyin": "cái",
+        "English": "only; just now; not until...",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "当然",
+        "Pinyin": "dāngrán",
+        "English": "of course, naturally",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "多么",
+        "Pinyin": "duōme",
+        "English": "how (wonderful etc)\/what (a great idea etc)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "更",
+        "Pinyin": "gèng",
+        "English": "even more",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "极",
+        "Pinyin": "jí",
+        "English": "extremely",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "几乎",
+        "Pinyin": "jīhū",
+        "English": "almost, nearly",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "经常",
+        "Pinyin": "jīngcháng",
+        "English": "often",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "马上",
+        "Pinyin": "mǎshàng",
+        "English": "right away; on horseback",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "其实",
+        "Pinyin": "qíshí",
+        "English": "actually, in fact",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "特别",
+        "Pinyin": "tèbié",
+        "English": "special",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "先",
+        "Pinyin": "xiān",
+        "English": "first, in advance",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "一定",
+        "Pinyin": "yīdìng",
+        "English": "definitely",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "一共",
+        "Pinyin": "yīgòng",
+        "English": "altogether",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "一直",
+        "Pinyin": "yīzhí",
+        "English": "continuously; straight (forward)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "又",
+        "Pinyin": "yòu",
+        "English": "(once) again",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "越",
+        "Pinyin": "yuè",
+        "English": "to surpass; the more...",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "真",
+        "Pinyin": "zhēn",
+        "English": "really, truly; real",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "只",
+        "Pinyin": "zhǐ",
+        "English": "only",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "终于",
+        "Pinyin": "zhōngyú",
+        "English": "at last; in the end; finally; eventually",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "总是",
+        "Pinyin": "zǒngshì",
+        "English": "always",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "别",
+        "Pinyin": "bié",
+        "English": "do not (do something)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "按时",
+        "Pinyin": "ànshí",
+        "English": "on time",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "本来",
+        "Pinyin": "běnlái",
+        "English": "originally",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "差不多",
+        "Pinyin": "chàbuduō",
+        "English": "more or less, almost",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "重新",
+        "Pinyin": "chóngxīn",
+        "English": "all over again",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "从来",
+        "Pinyin": "cónglái",
+        "English": "always; never (if used in negative sentence)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "大概",
+        "Pinyin": "dàgài",
+        "English": "roughly; probably; approximate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "倒",
+        "Pinyin": "dào",
+        "English": "yet, actually (used to indicate contrast)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "到处",
+        "Pinyin": "dàochù",
+        "English": "everywhere",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "到底",
+        "Pinyin": "dàodǐ",
+        "English": "after all",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "大约",
+        "Pinyin": "dàyuē",
+        "English": "approximately; about",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "刚",
+        "Pinyin": "gāng",
+        "English": "just (did something)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "光",
+        "Pinyin": "guāng",
+        "English": "only, merely",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "故意",
+        "Pinyin": "gùyì",
+        "English": "on purpose, intentional",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "好像",
+        "Pinyin": "hǎoxiàng",
+        "English": "to seem like; to seem to be",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "互相",
+        "Pinyin": "hùxiāng",
+        "English": "mutually",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "接着",
+        "Pinyin": "jiēzhe",
+        "English": "to continue doing; next, ...",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "竟然",
+        "Pinyin": "jìngrán",
+        "English": "unexpectedly",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "及时",
+        "Pinyin": "jíshí",
+        "English": "in time; promptly",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "究竟",
+        "Pinyin": "jiūjìng",
+        "English": "after all, when all is said and done, finally",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "肯定",
+        "Pinyin": "kěndìng",
+        "English": "certainly",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "恐怕",
+        "Pinyin": "kǒngpà",
+        "English": "I'm afraid that...",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "难道",
+        "Pinyin": "nándào",
+        "English": "could it be that...? [rhetorical question marker]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "偶尔",
+        "Pinyin": "ǒu'ěr",
+        "English": "occasionally",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "千万",
+        "Pinyin": "qiānwàn",
+        "English": "one must by all means (do something)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "却",
+        "Pinyin": "què",
+        "English": "however, yet",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "确实",
+        "Pinyin": "quèshí",
+        "English": "indeed",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "仍然",
+        "Pinyin": "réngrán",
+        "English": "still, yet",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "稍微",
+        "Pinyin": "shāowēi",
+        "English": "a little bit",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "十分",
+        "Pinyin": "shífēn",
+        "English": "very, extremely",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "是否",
+        "Pinyin": "shìfǒu",
+        "English": "whether or not",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "实在",
+        "Pinyin": "shízài",
+        "English": "actually",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "顺便",
+        "Pinyin": "shùnbiàn",
+        "English": "while we're at it...",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "挺",
+        "Pinyin": "tǐng",
+        "English": "rather; quite",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "提前",
+        "Pinyin": "tíqián",
+        "English": "in advance",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "往往",
+        "Pinyin": "wǎngwǎng",
+        "English": "often;frequently",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "完全",
+        "Pinyin": "wánquán",
+        "English": "completely; totally",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "也许",
+        "Pinyin": "yěxǔ",
+        "English": "perhaps, maybe",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "永远",
+        "Pinyin": "yǒngyuǎn",
+        "English": "forever, eternal",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "尤其",
+        "Pinyin": "yóuqí",
+        "English": "especially",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "正好",
+        "Pinyin": "zhènghǎo",
+        "English": "just happen to, by chance",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "只好",
+        "Pinyin": "zhǐhǎo",
+        "English": "to have to, to have no choice but to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "至少",
+        "Pinyin": "zhìshǎo",
+        "English": "at least",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "专门",
+        "Pinyin": "zhuānmén",
+        "English": "especially (for), specialized",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "自然",
+        "Pinyin": "zìrán",
+        "English": "naturally, certainly",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "最好",
+        "Pinyin": "zuìhǎo",
+        "English": "(you) had better (do something)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "会",
+        "Pinyin": "huì",
+        "English": "can, know to",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "能",
+        "Pinyin": "néng",
+        "English": "can, be able to",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "想",
+        "Pinyin": "xiǎng",
+        "English": "would like to",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "可能",
+        "Pinyin": "kěnéng",
+        "English": "maybe, might; possible",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "可以",
+        "Pinyin": "kěyǐ",
+        "English": "may, can",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "要",
+        "Pinyin": "yào",
+        "English": "to want; to need; have to; want to; will",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "应该",
+        "Pinyin": "yīnggāi",
+        "English": "should, ought to",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "愿意",
+        "Pinyin": "yuànyì",
+        "English": "to be willing",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "得",
+        "Pinyin": "děi",
+        "English": "must, have to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "和",
+        "Pinyin": "hé",
+        "English": "and",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "但是",
+        "Pinyin": "dànshì",
+        "English": "but",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "虽然",
+        "Pinyin": "suīrán",
+        "English": "although",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "所以",
+        "Pinyin": "suǒyǐ",
+        "English": "so, therefore",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "因为",
+        "Pinyin": "yīnwèi",
+        "English": "because",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "不但",
+        "Pinyin": "bùdàn",
+        "English": "not only (... but also...)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "而且",
+        "Pinyin": "érqiě",
+        "English": "in addition, furthermore",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "还是",
+        "Pinyin": "háishì",
+        "English": "or; still",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "或者",
+        "Pinyin": "huòzhě",
+        "English": "or [in statements]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "然后",
+        "Pinyin": "ránhòu",
+        "English": "and then",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "如果",
+        "Pinyin": "rúguǒ",
+        "English": "if",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "虽然",
+        "Pinyin": "suīrán",
+        "English": "although",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "一边",
+        "Pinyin": "yībiān",
+        "English": "one side; while doing...",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "只有",
+        "Pinyin": "zhǐyǒu",
+        "English": "only (if)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "但是",
+        "Pinyin": "dànshì",
+        "English": "but",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "并且",
+        "Pinyin": "bìngqiě",
+        "English": "and besides, moreover",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "不管",
+        "Pinyin": "bùguǎn",
+        "English": "no matter (what, how)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "不过",
+        "Pinyin": "bùguò",
+        "English": "but, yet",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "不仅",
+        "Pinyin": "bùjǐn",
+        "English": "not only (this one);not just (...) but also",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "而",
+        "Pinyin": "ér",
+        "English": "but (not), yet (not) [indicates contrast]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "否则",
+        "Pinyin": "fǒuzé",
+        "English": "otherwise, or else",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "尽管",
+        "Pinyin": "jǐnguǎn",
+        "English": "although",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "既然",
+        "Pinyin": "jìrán",
+        "English": "since..., this being the case...",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "即使",
+        "Pinyin": "jíshǐ",
+        "English": "even if; even though",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "可是",
+        "Pinyin": "kěshì",
+        "English": "but",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "另外",
+        "Pinyin": "lìngwài",
+        "English": "in addition",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "然而",
+        "Pinyin": "ránér",
+        "English": "however, but",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "甚至",
+        "Pinyin": "shènzhì",
+        "English": "even",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "同时",
+        "Pinyin": "tóngshí",
+        "English": "at the same time",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "无论",
+        "Pinyin": "wúlùn",
+        "English": "regardless of",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "相反",
+        "Pinyin": "xiāngfǎn",
+        "English": "opposite",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "要是",
+        "Pinyin": "yàoshi",
+        "English": "if",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "因此",
+        "Pinyin": "yīncǐ",
+        "English": "therefore, thus, as a result",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "由于",
+        "Pinyin": "yóuyú",
+        "English": "since; because",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "于是",
+        "Pinyin": "yúshì",
+        "English": "thereupon",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "只要",
+        "Pinyin": "zhǐyào",
+        "English": "if only;so long as",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "这",
+        "Pinyin": "zhè",
+        "English": "this",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "那",
+        "Pinyin": "nà",
+        "English": "that",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "每",
+        "Pinyin": "měi",
+        "English": "every",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "那么",
+        "Pinyin": "nàme",
+        "English": "like that, in that way; in that case",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "其他",
+        "Pinyin": "qítā",
+        "English": "other",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "这么",
+        "Pinyin": "zhème",
+        "English": "so much, this much",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "喂",
+        "Pinyin": "wèi",
+        "English": "hey, hello",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "多少",
+        "Pinyin": "duōshǎo",
+        "English": "how much",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "几",
+        "Pinyin": "jǐ",
+        "English": "how many, a few",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "哪",
+        "Pinyin": "nǎ",
+        "English": "which",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "哪儿",
+        "Pinyin": "nǎr",
+        "English": "where",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "什么",
+        "Pinyin": "shénme",
+        "English": "what, why",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "谁",
+        "Pinyin": "shéi",
+        "English": "who",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "怎么",
+        "Pinyin": "zěnme",
+        "English": "how",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "怎么样",
+        "Pinyin": "zěnmeyàng",
+        "English": "how about",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "为什么",
+        "Pinyin": "wèishénme",
+        "English": "why",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "本",
+        "Pinyin": "běn",
+        "English": "[measure word for books]",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "个",
+        "Pinyin": "gè",
+        "English": "[measure word for people]",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "块",
+        "Pinyin": "kuài",
+        "English": "[measure word for pieces]",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "岁",
+        "Pinyin": "suì",
+        "English": "years old",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "些",
+        "Pinyin": "xiē",
+        "English": "some",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "一点儿",
+        "Pinyin": "yīdiǎnr",
+        "English": "a little",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "次",
+        "Pinyin": "cì",
+        "English": "[measure word for how many times something happens]",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "件",
+        "Pinyin": "jiàn",
+        "English": "[measure word]",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "一下",
+        "Pinyin": "yīxià",
+        "English": "[after a verb] quickly, briefly, casually",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "把",
+        "Pinyin": "bǎ",
+        "English": "[measure word for things with a handle]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "层",
+        "Pinyin": "céng",
+        "English": "[measure word for floor, level of a building]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "段",
+        "Pinyin": "duàn",
+        "English": "[measure word for length (of time), paragraph]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "分",
+        "Pinyin": "fēn",
+        "English": "a unit of money (equal to 1\/100 yuan)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "公斤",
+        "Pinyin": "gōngjīn",
+        "English": "kilogram (kg)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "角",
+        "Pinyin": "jiǎo",
+        "English": "unit of money (equal to 1\/10 yuan)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "刻",
+        "Pinyin": "kè",
+        "English": "quarter (hour)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "口",
+        "Pinyin": "kǒu",
+        "English": "[measure word for bites of food or people in a household]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "辆",
+        "Pinyin": "liàng",
+        "English": "[measure word for cars]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "双",
+        "Pinyin": "shuāng",
+        "English": "pair, [measure word for pairs of things]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "条",
+        "Pinyin": "tiáo",
+        "English": "[measure word for long things]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "碗",
+        "Pinyin": "wǎn",
+        "English": "[measure word for bowls of something]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "位",
+        "Pinyin": "wèi",
+        "English": "[polite measure word for people]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "元",
+        "Pinyin": "yuán",
+        "English": "[measure word for units of money]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "张",
+        "Pinyin": "zhāng",
+        "English": "[measure word for flat things]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "只",
+        "Pinyin": "zhī",
+        "English": "[measure word for small things]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "种",
+        "Pinyin": "zhǒng",
+        "English": "kind, type",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "倍",
+        "Pinyin": "bèi",
+        "English": "times (the amount), -fold",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "遍",
+        "Pinyin": "biàn",
+        "English": "time(s) [measure word for counting actions from start to finish]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "场",
+        "Pinyin": "cháng",
+        "English": "[measure word for sports or entertainmnet events]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "份",
+        "Pinyin": "fèn",
+        "English": "a portion, a copy, a set [measure word]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "公里",
+        "Pinyin": "gōnglǐ",
+        "English": "kilometer",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "节",
+        "Pinyin": "jié",
+        "English": "section, length",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "棵",
+        "Pinyin": "kē",
+        "English": "[measure word for trees or other large plants]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "秒",
+        "Pinyin": "miǎo",
+        "English": "second (unit of time)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "篇",
+        "Pinyin": "piān",
+        "English": "[measure word for essays and other written pieces]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "台",
+        "Pinyin": "tái",
+        "English": "[measure word for computers]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "趟",
+        "Pinyin": "tàng",
+        "English": "time(s) [measure word used for round trips]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "页",
+        "Pinyin": "yè",
+        "English": "page",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "座",
+        "Pinyin": "zuò",
+        "English": "[measure word for bridges, mountains, buildings]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "爸爸",
+        "Pinyin": "bàba",
+        "English": "dad",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "北京",
+        "Pinyin": "Běijīng",
+        "English": "Beijing",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "杯子",
+        "Pinyin": "bēizi",
+        "English": "cup",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "菜",
+        "Pinyin": "cài",
+        "English": "vegetable",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "茶",
+        "Pinyin": "chá",
+        "English": "tea",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "出租车",
+        "Pinyin": "chūzūchē",
+        "English": "taxi",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "点",
+        "Pinyin": "diǎn",
+        "English": "point, dot, spot",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "电脑",
+        "Pinyin": "diànnǎo",
+        "English": "computer",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "电视",
+        "Pinyin": "diànshì",
+        "English": "television",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "电影",
+        "Pinyin": "diànyǐng",
+        "English": "movie",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "东西",
+        "Pinyin": "dōngxi",
+        "English": "thing",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "儿子",
+        "Pinyin": "érzi",
+        "English": "son",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "饭店",
+        "Pinyin": "fàndiàn",
+        "English": "restaurant",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "飞机",
+        "Pinyin": "fēijī",
+        "English": "airplane",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "分钟",
+        "Pinyin": "fēnzhōng",
+        "English": "minute",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "狗",
+        "Pinyin": "gǒu",
+        "English": "dog",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "汉语",
+        "Pinyin": "hànyǔ",
+        "English": "mandarin Chinese",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "后面",
+        "Pinyin": "hòumiàn",
+        "English": "behind",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "家",
+        "Pinyin": "jiā",
+        "English": "home",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "今天",
+        "Pinyin": "jīntiān",
+        "English": "today",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "老师",
+        "Pinyin": "lǎoshī",
+        "English": "teacher",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "里面",
+        "Pinyin": "lǐmiàn",
+        "English": "inside",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "妈妈",
+        "Pinyin": "māma",
+        "English": "mom",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "猫",
+        "Pinyin": "māo",
+        "English": "cat",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "米饭",
+        "Pinyin": "mǐfàn",
+        "English": "rice",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "明天",
+        "Pinyin": "míngtiān",
+        "English": "tomorrow",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "名字",
+        "Pinyin": "míngzi",
+        "English": "name",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "年",
+        "Pinyin": "nián",
+        "English": "year",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "女儿",
+        "Pinyin": "nǚ'ér",
+        "English": "daughter",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "朋友",
+        "Pinyin": "péngyou",
+        "English": "friend",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "苹果",
+        "Pinyin": "píngguǒ",
+        "English": "apple",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "钱",
+        "Pinyin": "qián",
+        "English": "money",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "前面",
+        "Pinyin": "qiánmiàn",
+        "English": "front",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "人",
+        "Pinyin": "rén",
+        "English": "person",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "上",
+        "Pinyin": "shàng",
+        "English": "up",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "商店",
+        "Pinyin": "shāngdiàn",
+        "English": "store",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "上午",
+        "Pinyin": "shàngwǔ",
+        "English": "morning",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "时候",
+        "Pinyin": "shíhou",
+        "English": "time",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "书",
+        "Pinyin": "shū",
+        "English": "book",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "水",
+        "Pinyin": "shuǐ",
+        "English": "water",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "水果",
+        "Pinyin": "shuǐguǒ",
+        "English": "fruit",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "天气",
+        "Pinyin": "tiānqì",
+        "English": "weather",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "同学",
+        "Pinyin": "tóngxué",
+        "English": "shoolmate",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "下",
+        "Pinyin": "xià",
+        "English": "down",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "先生",
+        "Pinyin": "xiānsheng",
+        "English": "sir",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "现在",
+        "Pinyin": "xiànzài",
+        "English": "now",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "小姐",
+        "Pinyin": "xiǎojiě",
+        "English": "Miss",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "下午",
+        "Pinyin": "xiàwǔ",
+        "English": "afternoon",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "星期",
+        "Pinyin": "xīngqī",
+        "English": "week",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "学生",
+        "Pinyin": "xuéshēng",
+        "English": "student",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "学校",
+        "Pinyin": "xuéxiào",
+        "English": "school",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "衣服",
+        "Pinyin": "yīfu",
+        "English": "cloth",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "医生",
+        "Pinyin": "yīshēng",
+        "English": "doctor",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "医院",
+        "Pinyin": "yīyuàn",
+        "English": "hospital",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "椅子",
+        "Pinyin": "yǐzi",
+        "English": "chair",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "月",
+        "Pinyin": "yuè",
+        "English": "month",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "中国",
+        "Pinyin": "Zhōngguó",
+        "English": "China",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "中午",
+        "Pinyin": "zhōngwǔ",
+        "English": "noon",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "桌子",
+        "Pinyin": "zhuōzi",
+        "English": "desk",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "字",
+        "Pinyin": "zì",
+        "English": "character",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "昨天",
+        "Pinyin": "zuótiān",
+        "English": "yesterday",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "报纸",
+        "Pinyin": "bàozhǐ",
+        "English": "newspaper",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "宾馆",
+        "Pinyin": "bīnguǎn",
+        "English": "hotel",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "错",
+        "Pinyin": "cuò",
+        "English": "mistake, fault; mistakenly",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "弟弟",
+        "Pinyin": "dìdi",
+        "English": "younger brother",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "房间",
+        "Pinyin": "fángjiān",
+        "English": "room",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "服务员",
+        "Pinyin": "fúwùyuán",
+        "English": "(food) server, waiter, waitress",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "哥哥",
+        "Pinyin": "gēge",
+        "English": "older brother",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "公共汽车",
+        "Pinyin": "gōnggòng qìchē",
+        "English": "public (city) bus",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "公司",
+        "Pinyin": "gōngsī",
+        "English": "company, corporation; office",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "孩子",
+        "Pinyin": "háizi",
+        "English": "child",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "火车站",
+        "Pinyin": "huǒchēzhàn",
+        "English": "train station",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "教室",
+        "Pinyin": "jiàoshì",
+        "English": "classroom",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "机场",
+        "Pinyin": "jīchǎng",
+        "English": "airport",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "鸡蛋",
+        "Pinyin": "jīdàn",
+        "English": "(chicken) egg",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "姐姐",
+        "Pinyin": "jiějie",
+        "English": "older sister",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "咖啡",
+        "Pinyin": "kāfēi",
+        "English": "coffee",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "考试",
+        "Pinyin": "kǎoshì",
+        "English": "test, exam",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "课",
+        "Pinyin": "kè",
+        "English": "lesson, class",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "路",
+        "Pinyin": "lù",
+        "English": "road, path, way",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "旅游",
+        "Pinyin": "lǚyóu",
+        "English": "travel",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "妹妹",
+        "Pinyin": "mèimei",
+        "English": "younger sister; young woman",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "门",
+        "Pinyin": "mén",
+        "English": "door, gate",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "面条",
+        "Pinyin": "miàntiáo",
+        "English": "noodles",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "男",
+        "Pinyin": "nán",
+        "English": "male",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "牛奶",
+        "Pinyin": "niúnǎi",
+        "English": "(cow) milk",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "女",
+        "Pinyin": "nǚ",
+        "English": "female",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "旁边",
+        "Pinyin": "pángbiān",
+        "English": "the side, next to",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "票",
+        "Pinyin": "piào",
+        "English": "ticket",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "铅笔",
+        "Pinyin": "qiānbǐ",
+        "English": "pencil",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "晴",
+        "Pinyin": "qíng",
+        "English": "clear, fine (weather)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "妻子",
+        "Pinyin": "qīzi",
+        "English": "wife",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "去年",
+        "Pinyin": "qùnián",
+        "English": "last year",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "日",
+        "Pinyin": "rì",
+        "English": "day; Japan",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "生日",
+        "Pinyin": "shēngrì",
+        "English": "birthday",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "身体",
+        "Pinyin": "shēntǐ",
+        "English": "body; health",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "时间",
+        "Pinyin": "shíjiān",
+        "English": "time",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "事情",
+        "Pinyin": "shìqing",
+        "English": "affair, business, matter, thing",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "手表",
+        "Pinyin": "shǒubiǎo",
+        "English": "wristwatch",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "手机",
+        "Pinyin": "shǒujī",
+        "English": "cell phone, mobile phone",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "题",
+        "Pinyin": "tí",
+        "English": "(math) problem",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "外",
+        "Pinyin": "wài",
+        "English": "outside",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "问题",
+        "Pinyin": "wèntí",
+        "English": "question; problem, issue",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "洗",
+        "Pinyin": "xǐ",
+        "English": "to wash, to bathe",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "小时",
+        "Pinyin": "xiǎoshí",
+        "English": "hour",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "西瓜",
+        "Pinyin": "xīguā",
+        "English": "watermelon",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "姓",
+        "Pinyin": "xìng",
+        "English": "surname",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "希望",
+        "Pinyin": "xīwàng",
+        "English": "to hope, to wish",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "雪",
+        "Pinyin": "xuě",
+        "English": "snow",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "羊肉",
+        "Pinyin": "yángròu",
+        "English": "mutton, lamb (meat)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "眼睛",
+        "Pinyin": "yǎnjing",
+        "English": "eye",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "颜色",
+        "Pinyin": "yánsè",
+        "English": "color",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "药",
+        "Pinyin": "yào",
+        "English": "medicine, drug",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "阴",
+        "Pinyin": "yīn",
+        "English": "overcast (in 阴天)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "意思",
+        "Pinyin": "yìsi",
+        "English": "meaning",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "游泳",
+        "Pinyin": "yóuyǒng",
+        "English": "swimming",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "右边",
+        "Pinyin": "yòubian",
+        "English": "right side; to the right",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "鱼",
+        "Pinyin": "yú",
+        "English": "fish",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "运动",
+        "Pinyin": "yùndòng",
+        "English": "sports, exercise",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "早上",
+        "Pinyin": "zǎoshang",
+        "English": "morning",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "丈夫",
+        "Pinyin": "zhàngfu",
+        "English": "husband",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "准备",
+        "Pinyin": "zhǔnbèi",
+        "English": "preparation(s)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "左边",
+        "Pinyin": "zuǒbian",
+        "English": "the left side; to the left of",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "爱好",
+        "Pinyin": "àihào",
+        "English": "hobby",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "阿姨",
+        "Pinyin": "āyí",
+        "English": "maternal aunt; housekeeper",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "班",
+        "Pinyin": "bān",
+        "English": "class, team; work",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "办法",
+        "Pinyin": "bànfǎ",
+        "English": "way of doing, method",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "办公室",
+        "Pinyin": "bàngōngshì",
+        "English": "office",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "包",
+        "Pinyin": "bāo",
+        "English": "bag",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "报纸",
+        "Pinyin": "bàozhǐ",
+        "English": "newspaper",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "北",
+        "Pinyin": "běi",
+        "English": "north",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "北方",
+        "Pinyin": "běifāng",
+        "English": "the north",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "杯子",
+        "Pinyin": "bēizi",
+        "English": "cup, glass",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "变化",
+        "Pinyin": "biànhuà",
+        "English": "change",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "表演",
+        "Pinyin": "biǎoyǎn",
+        "English": "play, show, performance",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "别人",
+        "Pinyin": "biérén",
+        "English": "other people",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "笔记本",
+        "Pinyin": "bǐjìběn",
+        "English": "notebook",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "宾馆",
+        "Pinyin": "bīnguǎn",
+        "English": "hotel",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "冰箱",
+        "Pinyin": "bīngxiāng",
+        "English": "refrigerator (lit. \"ice box\")",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "比赛",
+        "Pinyin": "bǐsài",
+        "English": "competition (sports, etc.)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "鼻子",
+        "Pinyin": "bízi",
+        "English": "nose",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "菜",
+        "Pinyin": "cài",
+        "English": "vegetable; dish (of food); cuisine (of a region)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "菜单",
+        "Pinyin": "càidān",
+        "English": "menu",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "船",
+        "Pinyin": "chuán",
+        "English": "boat, ship",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "草",
+        "Pinyin": "cǎo",
+        "English": "grass",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "超市",
+        "Pinyin": "chāoshì",
+        "English": "supermarket",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "成绩",
+        "Pinyin": "chéngjì",
+        "English": "achievement; grades",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "城市",
+        "Pinyin": "chéngshì",
+        "English": "city",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "衬衫",
+        "Pinyin": "chènshān",
+        "English": "dress shirt",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "厨房",
+        "Pinyin": "chúfáng",
+        "English": "kitchen",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "春",
+        "Pinyin": "chūn",
+        "English": "spring",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "出租车",
+        "Pinyin": "chūzūchē",
+        "English": "taxi",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "词典",
+        "Pinyin": "cídiǎn",
+        "English": "dictionary (of words)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "词语",
+        "Pinyin": "cíyǔ",
+        "English": "word, expression",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "蛋糕",
+        "Pinyin": "dàngāo",
+        "English": "cake",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "打算",
+        "Pinyin": "dǎsuàn",
+        "English": "plan",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "灯",
+        "Pinyin": "dēng",
+        "English": "light, lamp",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "电脑",
+        "Pinyin": "diànnǎo",
+        "English": "computer",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "电视",
+        "Pinyin": "diànshì",
+        "English": "television, TV",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "电梯",
+        "Pinyin": "diàntī",
+        "English": "elevator; escalator",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "电影",
+        "Pinyin": "diànyǐng",
+        "English": "movie, film",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "电子邮件",
+        "Pinyin": "diànzǐ yóujiàn",
+        "English": "email (lit. \"electronic mail\")",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "地方",
+        "Pinyin": "dìfang",
+        "English": "place",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "地铁",
+        "Pinyin": "dìtiě",
+        "English": "subway, metro",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "地图",
+        "Pinyin": "dìtú",
+        "English": "map",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "东",
+        "Pinyin": "dōng",
+        "English": "east",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "冬",
+        "Pinyin": "dōng",
+        "English": "winter",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "动物",
+        "Pinyin": "dòngwù",
+        "English": "animal",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "东西",
+        "Pinyin": "dōngxi",
+        "English": "thing",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "耳朵",
+        "Pinyin": "ěrduo",
+        "English": "ear",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "飞机",
+        "Pinyin": "fēijī",
+        "English": "airplane",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "附近",
+        "Pinyin": "fùjìn",
+        "English": "nearby, (in the) vicinity",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "刚才",
+        "Pinyin": "gāngcái",
+        "English": "(just) a moment ago",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "个子",
+        "Pinyin": "gèzi",
+        "English": "height, stature",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "公园",
+        "Pinyin": "gōngyuán",
+        "English": "public park",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "狗",
+        "Pinyin": "gǒu",
+        "English": "dog",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "关系",
+        "Pinyin": "guānxi",
+        "English": "relation, relationship; to concern",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "国家",
+        "Pinyin": "guójiā",
+        "English": "country, nation",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "过去",
+        "Pinyin": "guòqù",
+        "English": "(in the) past; to go over (to a place)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "果汁",
+        "Pinyin": "guǒzhī",
+        "English": "fruit juice",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "故事",
+        "Pinyin": "gùshi",
+        "English": "story",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "河",
+        "Pinyin": "hé",
+        "English": "river",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "黑板",
+        "Pinyin": "hēibǎn",
+        "English": "blackboard",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "后来",
+        "Pinyin": "hòulái",
+        "English": "afterwards; later",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "花",
+        "Pinyin": "huā",
+        "English": "flower",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "画",
+        "Pinyin": "huà",
+        "English": "picture, painting",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "黄河",
+        "Pinyin": "HuángHé",
+        "English": "Yellow River, Huang He",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "环境",
+        "Pinyin": "huánjìng",
+        "English": "environment, circumstances, surroundings",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "花园",
+        "Pinyin": "huāyuán",
+        "English": "(flower) garden",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "会议",
+        "Pinyin": "huìyì",
+        "English": "meeting",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "护照",
+        "Pinyin": "hùzhào",
+        "English": "passport",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "脚",
+        "Pinyin": "jiǎo",
+        "English": "foot, leg",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "街道",
+        "Pinyin": "jiēdào",
+        "English": "street",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "节目",
+        "Pinyin": "jiémù",
+        "English": "program",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "节日",
+        "Pinyin": "jiérì",
+        "English": "holiday, festival",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "机会",
+        "Pinyin": "jīhuì",
+        "English": "opportunity",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "季节",
+        "Pinyin": "jìjié",
+        "English": "season, time",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "经理",
+        "Pinyin": "jīnglǐ",
+        "English": "manager",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "句子",
+        "Pinyin": "jùzi",
+        "English": "sentence",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "客人",
+        "Pinyin": "kèrén",
+        "English": "visitor, guest, customer, client",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "空调",
+        "Pinyin": "kōngtiáo",
+        "English": "air conditioning",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "口",
+        "Pinyin": "kǒu",
+        "English": "mouth",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "筷子",
+        "Pinyin": "kuàizi",
+        "English": "chopsticks",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "裤子",
+        "Pinyin": "kùzi",
+        "English": "long pants",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "脸",
+        "Pinyin": "liǎn",
+        "English": "face",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "练习",
+        "Pinyin": "liànxí",
+        "English": "practice, a (language) exercise",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "邻居",
+        "Pinyin": "línjū",
+        "English": "neighbor",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "历史",
+        "Pinyin": "lìshǐ",
+        "English": "history",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "礼物",
+        "Pinyin": "lǐwù",
+        "English": "gift, present",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "楼",
+        "Pinyin": "lóu",
+        "English": "building; floor (of a building)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "路",
+        "Pinyin": "lù",
+        "English": "road, path, way",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "马",
+        "Pinyin": "mǎ",
+        "English": "horse",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "猫",
+        "Pinyin": "māo",
+        "English": "cat",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "帽子",
+        "Pinyin": "màozi",
+        "English": "hat, cap, hood (of a jacket)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "门",
+        "Pinyin": "mén",
+        "English": "door, gate",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "米",
+        "Pinyin": "mǐ",
+        "English": "(uncooked) rice; meter",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "面包",
+        "Pinyin": "miànbāo",
+        "English": "bread",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "面条",
+        "Pinyin": "miàntiáo",
+        "English": "noodles",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "奶奶",
+        "Pinyin": "nǎinai",
+        "English": "paternal grandmother",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "南",
+        "Pinyin": "nán",
+        "English": "south",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "年级",
+        "Pinyin": "niánjí",
+        "English": "grade (in school)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "鸟",
+        "Pinyin": "niǎo",
+        "English": "bird",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "盘子",
+        "Pinyin": "pánzi",
+        "English": "plate, dish, tray",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "票",
+        "Pinyin": "piào",
+        "English": "ticket",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "啤酒",
+        "Pinyin": "píjiǔ",
+        "English": "beer",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "瓶子",
+        "Pinyin": "píngzi",
+        "English": "bottle",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "皮鞋",
+        "Pinyin": "píxié",
+        "English": "leather shoes",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "葡萄",
+        "Pinyin": "pútao",
+        "English": "grape(s)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "普通话",
+        "Pinyin": "pǔtōnghuà",
+        "English": "Mandarin (lit. \"common speech\")",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "钱",
+        "Pinyin": "qián",
+        "English": "money",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "铅笔",
+        "Pinyin": "qiānbǐ",
+        "English": "pencil",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "秋",
+        "Pinyin": "qiū",
+        "English": "autumn",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "裙子",
+        "Pinyin": "qúnzi",
+        "English": "dress, skirt",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "伞",
+        "Pinyin": "sǎn",
+        "English": "umbrella, parasol",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "声音",
+        "Pinyin": "shēngyīn",
+        "English": "sound, voice",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "世界",
+        "Pinyin": "shìjiè",
+        "English": "world",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "手机",
+        "Pinyin": "shǒujī",
+        "English": "cell phone, mobile phone",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "书",
+        "Pinyin": "shū",
+        "English": "book",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "树",
+        "Pinyin": "shù",
+        "English": "tree",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "水平",
+        "Pinyin": "shuǐpíng",
+        "English": "level (of ability, etc.)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "叔叔",
+        "Pinyin": "shūshu",
+        "English": "uncle, father's younger brother",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "数学",
+        "Pinyin": "shùxué",
+        "English": "mathematics",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "司机",
+        "Pinyin": "sījī",
+        "English": "driver",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "太阳",
+        "Pinyin": "tàiyáng",
+        "English": "sun",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "糖",
+        "Pinyin": "táng",
+        "English": "sugar; candy",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "天气",
+        "Pinyin": "tiānqì",
+        "English": "weather",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "体育",
+        "Pinyin": "tǐyù",
+        "English": "physical education, sports",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "同事",
+        "Pinyin": "tóngshì",
+        "English": "co-worker, colleague",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "头发",
+        "Pinyin": "tóufa",
+        "English": "hair (on the head)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "腿",
+        "Pinyin": "tuǐ",
+        "English": "leg",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "图书馆",
+        "Pinyin": "túshūguǎn",
+        "English": "library",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "碗",
+        "Pinyin": "wǎn",
+        "English": "bowl",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "文化",
+        "Pinyin": "wénhuà",
+        "English": "culture",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "问题",
+        "Pinyin": "wèntí",
+        "English": "question; problem, issue",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "西",
+        "Pinyin": "xī",
+        "English": "west",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "夏",
+        "Pinyin": "xià",
+        "English": "summer",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "香蕉",
+        "Pinyin": "xiāngjiāo",
+        "English": "banana",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "先生",
+        "Pinyin": "xiānsheng",
+        "English": "Mr.; husband; sir",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "校长",
+        "Pinyin": "xiàozhǎng",
+        "English": "principal",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "习惯",
+        "Pinyin": "xíguàn",
+        "English": "habit, custom",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "信",
+        "Pinyin": "xìn",
+        "English": "letter; to believe",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "行李箱",
+        "Pinyin": "xínglixiāng",
+        "English": "trunk (of a car), baggage compartment",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "兴趣",
+        "Pinyin": "xìngqù",
+        "English": "interest (in something)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "新闻",
+        "Pinyin": "xīnwén",
+        "English": "news",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "信用卡",
+        "Pinyin": "xìnyòngkǎ",
+        "English": "credit card",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "熊猫",
+        "Pinyin": "xíongmāo",
+        "English": "panda",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "洗手间",
+        "Pinyin": "xǐshǒujiān",
+        "English": "restroom",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "选择",
+        "Pinyin": "xuǎnzé",
+        "English": "choice",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "雪",
+        "Pinyin": "xuě",
+        "English": "snow",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "眼镜",
+        "Pinyin": "yǎnjìng",
+        "English": "glasses",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "眼睛",
+        "Pinyin": "yǎnjing",
+        "English": "eye",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "要求",
+        "Pinyin": "yāoqiú",
+        "English": "demand(s)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "爷爷",
+        "Pinyin": "yéye",
+        "English": "paternal grandfather",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "衣服",
+        "Pinyin": "yīfu",
+        "English": "clothing",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "以后",
+        "Pinyin": "yǐhòu",
+        "English": "after, later on, in the future",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "一会儿",
+        "Pinyin": "yīhuìr",
+        "English": "a while",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "影响",
+        "Pinyin": "yǐngxiǎng",
+        "English": "an influence",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "银行",
+        "Pinyin": "yínháng",
+        "English": "bank",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "饮料",
+        "Pinyin": "yǐnliào",
+        "English": "beverage, (non-alcoholic) drink",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "音乐",
+        "Pinyin": "yīnyuè",
+        "English": "music",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "以前",
+        "Pinyin": "yǐqián",
+        "English": "before, previous; ago",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "游戏",
+        "Pinyin": "yóuxì",
+        "English": "game",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "鱼",
+        "Pinyin": "yú",
+        "English": "fish",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "月亮",
+        "Pinyin": "yuèliang",
+        "English": "the moon",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "照片",
+        "Pinyin": "zhàopiàn",
+        "English": "photograph",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "照相机",
+        "Pinyin": "zhàoxiàngjī",
+        "English": "camera",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "中间",
+        "Pinyin": "zhōngjiān",
+        "English": "in the middle",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "中文",
+        "Pinyin": "Zhōngwén",
+        "English": "Chinese (language)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "周末",
+        "Pinyin": "zhōumò",
+        "English": "weekend",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "字典",
+        "Pinyin": "zìdiǎn",
+        "English": "character dictionary",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "自行车",
+        "Pinyin": "zìxíngchē",
+        "English": "bicycle",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "嘴",
+        "Pinyin": "zuǐ",
+        "English": "mouth",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "最后",
+        "Pinyin": "zuìhòu",
+        "English": "last",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "最近",
+        "Pinyin": "zuìjìn",
+        "English": "recently, these days",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "作业",
+        "Pinyin": "zuòyè",
+        "English": "homework",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "作用",
+        "Pinyin": "zuòyòng",
+        "English": "impact",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "爱情",
+        "Pinyin": "àiqíng",
+        "English": "love (romantic)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "安排",
+        "Pinyin": "ānpái",
+        "English": "arrangement",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "安全",
+        "Pinyin": "ānquán",
+        "English": "safety",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "包子",
+        "Pinyin": "bāozi",
+        "English": "steamed (stuffed) bun",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "表格",
+        "Pinyin": "biǎogé",
+        "English": "form, table",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "表演",
+        "Pinyin": "biǎoyǎn",
+        "English": "play; show; performance; exhibition; to perform; to act; to demonstrate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "标准",
+        "Pinyin": "biāozhǔn",
+        "English": "standard",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "饼干",
+        "Pinyin": "bǐnggān",
+        "English": "cracker, cookie",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "博士",
+        "Pinyin": "bóshì",
+        "English": "Ph.D. (degree); doctor",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "部分",
+        "Pinyin": "bùfen",
+        "English": "part, section",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "材料",
+        "Pinyin": "cáiliào",
+        "English": "material",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "餐厅",
+        "Pinyin": "cāntīng",
+        "English": "restaurant",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "厕所",
+        "Pinyin": "cèsuǒ",
+        "English": "toilet, restroom",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "长城",
+        "Pinyin": "Chángchéng",
+        "English": "the Great Wall of China",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "长江",
+        "Pinyin": "Cháng Jiāng",
+        "English": "the Yangtze River",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "成功",
+        "Pinyin": "chénggōng",
+        "English": "success",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "窗户",
+        "Pinyin": "chuānghu",
+        "English": "window",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "厨房",
+        "Pinyin": "chúfáng",
+        "English": "kitchen",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "词语",
+        "Pinyin": "cíyǔ",
+        "English": "word, expression",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "错误",
+        "Pinyin": "cuòwù",
+        "English": "error, mistake; mistaken",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "答案",
+        "Pinyin": "dá'àn",
+        "English": "answer",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "大夫",
+        "Pinyin": "dàifu",
+        "English": "doctor",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "当时",
+        "Pinyin": "dāngshí",
+        "English": "at that time",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "刀",
+        "Pinyin": "dāo",
+        "English": "knife",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "导游",
+        "Pinyin": "dǎoyóu",
+        "English": "tour guide",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "大使馆",
+        "Pinyin": "dàshǐguǎn",
+        "English": "embassy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "登机牌",
+        "Pinyin": "dēngjīpái",
+        "English": "boarding pass",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "底",
+        "Pinyin": "dǐ",
+        "English": "bottom, base",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "调查",
+        "Pinyin": "diàochá",
+        "English": "survey",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "地点",
+        "Pinyin": "dìdiǎn",
+        "English": "site, location",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "地球",
+        "Pinyin": "dìqiú",
+        "English": "the Earth",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "地址",
+        "Pinyin": "dìzhǐ",
+        "English": "address",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "动作",
+        "Pinyin": "dòngzuò",
+        "English": "movement",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "短信",
+        "Pinyin": "duǎnxìn",
+        "English": "text message",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "对话",
+        "Pinyin": "duìhuà",
+        "English": "dialog",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "对面",
+        "Pinyin": "duìmiàn",
+        "English": "opposite to, across from",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "肚子",
+        "Pinyin": "dùzi",
+        "English": "belly, abdomen",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "儿童",
+        "Pinyin": "értóng",
+        "English": "children",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "法律",
+        "Pinyin": "fǎlǜ",
+        "English": "law",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "房东",
+        "Pinyin": "fángdōng",
+        "English": "landlord",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "方法",
+        "Pinyin": "fāngfǎ",
+        "English": "method",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "方面",
+        "Pinyin": "fāngmiàn",
+        "English": "aspect",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "方向",
+        "Pinyin": "fāngxiàng",
+        "English": "direction",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "翻译",
+        "Pinyin": "fānyì",
+        "English": "translation, translator",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "付款",
+        "Pinyin": "fùkuǎn",
+        "English": "payment",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "父亲",
+        "Pinyin": "fùqin",
+        "English": "father",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "感觉",
+        "Pinyin": "gǎnjué",
+        "English": "sense perception; sensation, feeling",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "感情",
+        "Pinyin": "gǎnqíng",
+        "English": "deep affection for sb or sth; relationship (i.e. love affair)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "高速公路",
+        "Pinyin": "gāosù gōnglù",
+        "English": "expressway",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "胳膊",
+        "Pinyin": "gēbo",
+        "English": "arm",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "功夫",
+        "Pinyin": "gōngfu",
+        "English": "kung fu; effort",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "工资",
+        "Pinyin": "gōngzī",
+        "English": "wages, pay",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "广播",
+        "Pinyin": "guǎngbō",
+        "English": "broadcast; to broadcast",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "广告",
+        "Pinyin": "guǎnggào",
+        "English": "advertisement",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "关键",
+        "Pinyin": "guānjiàn",
+        "English": "key (issue)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "管理",
+        "Pinyin": "guǎnlǐ",
+        "English": "management",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "观众",
+        "Pinyin": "guānzhòng",
+        "English": "audience (of a stage performance or visual media)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "规定",
+        "Pinyin": "guīdìng",
+        "English": "regulation, rule",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "顾客",
+        "Pinyin": "gùkè",
+        "English": "customer",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "鼓励",
+        "Pinyin": "gǔlì",
+        "English": "encouragement",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "过程",
+        "Pinyin": "guòchéng",
+        "English": "course; process",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "国籍",
+        "Pinyin": "guójí",
+        "English": "nationality",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "国际",
+        "Pinyin": "guójì",
+        "English": "international",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "果汁",
+        "Pinyin": "guǒzhī",
+        "English": "fruit juice",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "海洋",
+        "Pinyin": "hǎiyáng",
+        "English": "ocean",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "汗",
+        "Pinyin": "hàn",
+        "English": "sweat, perspiration",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "航班",
+        "Pinyin": "hángbān",
+        "English": "flight",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "寒假",
+        "Pinyin": "hánjià",
+        "English": "winter vacation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "好处",
+        "Pinyin": "hǎochù",
+        "English": "benefit",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "号码",
+        "Pinyin": "hàomǎ",
+        "English": "number",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "盒子",
+        "Pinyin": "hézi",
+        "English": "box, case",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "互联网",
+        "Pinyin": "Hùliánwǎng",
+        "English": "the Internet",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "活动",
+        "Pinyin": "huódòng",
+        "English": "activity, event",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "护士",
+        "Pinyin": "hùshi",
+        "English": "nurse",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "价格",
+        "Pinyin": "jiàgé",
+        "English": "price",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "家具",
+        "Pinyin": "jiājù",
+        "English": "furniture",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "奖金",
+        "Pinyin": "jiǎngjīn",
+        "English": "bonus",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "将来",
+        "Pinyin": "jiānglái",
+        "English": "in the future",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "建议",
+        "Pinyin": "jiànyì",
+        "English": "suggestion, recommendation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "郊区",
+        "Pinyin": "jiāoqū",
+        "English": "suburbs, area on the outskirts of the city",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "教授",
+        "Pinyin": "jiàoshòu",
+        "English": "professor",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "交通",
+        "Pinyin": "jiāotōng",
+        "English": "traffic",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "教育",
+        "Pinyin": "jiàoyù",
+        "English": "education",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "饺子",
+        "Pinyin": "jiǎozi",
+        "English": "dumpling",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "加油站",
+        "Pinyin": "jiāyóuzhàn",
+        "English": "gas station",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "基础",
+        "Pinyin": "jīchǔ",
+        "English": "base; foundation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "节",
+        "Pinyin": "jié",
+        "English": "festival, holiday",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "结果",
+        "Pinyin": "jiéguǒ",
+        "English": "result; in the end, as a result",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "解释",
+        "Pinyin": "jiěshì",
+        "English": "explanation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "计划",
+        "Pinyin": "jìhuà",
+        "English": "plan; project; program",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "警察",
+        "Pinyin": "jǐngchá",
+        "English": "police, policeman, policewoman",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "经济",
+        "Pinyin": "jīngjì",
+        "English": "economy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "京剧",
+        "Pinyin": "jīngjù",
+        "English": "Beijing opera",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "经历",
+        "Pinyin": "jīnglì",
+        "English": "an experience",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "景色",
+        "Pinyin": "jǐngsè",
+        "English": "scenery, landscape",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "经验",
+        "Pinyin": "jīngyàn",
+        "English": "(accumulated) experience",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "竞争",
+        "Pinyin": "jìngzhēng",
+        "English": "competition",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "技术",
+        "Pinyin": "jìshù",
+        "English": "technology; skill, technique",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "记者",
+        "Pinyin": "jìzhě",
+        "English": "journalist",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "聚会",
+        "Pinyin": "jùhuì",
+        "English": "party, gathering",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "距离",
+        "Pinyin": "jùlí",
+        "English": "distance",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "看法",
+        "Pinyin": "kànfǎ",
+        "English": "point of view",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "烤鸭",
+        "Pinyin": "kǎoyā",
+        "English": "roast duck",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "客厅",
+        "Pinyin": "kètīng",
+        "English": "living room (in one's home)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "科学",
+        "Pinyin": "kēxué",
+        "English": "science; scientific",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "空气",
+        "Pinyin": "kōngqì",
+        "English": "air",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "空儿",
+        "Pinyin": "kòngr",
+        "English": "free time",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "矿泉水",
+        "Pinyin": "kuàngquánshuǐ",
+        "English": "mineral spring water",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "困难",
+        "Pinyin": "kùnnan",
+        "English": "difficulty",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "垃圾桶",
+        "Pinyin": "lājītǒng",
+        "English": "trash can",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "老虎",
+        "Pinyin": "lǎohǔ",
+        "English": "tiger",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "联系",
+        "Pinyin": "liánxì",
+        "English": "contact",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "礼拜天",
+        "Pinyin": "lǐbàitiān",
+        "English": "Sunday",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "礼貌",
+        "Pinyin": "lǐmào",
+        "English": "politeness, manners",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "零钱",
+        "Pinyin": "língqián",
+        "English": "(small) change",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "力气",
+        "Pinyin": "lìqi",
+        "English": "strength",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "理想",
+        "Pinyin": "lǐxiǎng",
+        "English": "ideal",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "律师",
+        "Pinyin": "lǜshī",
+        "English": "lawyer",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "旅行",
+        "Pinyin": "lǚxíng",
+        "English": "trip",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "麻烦",
+        "Pinyin": "máfan",
+        "English": "hassle, trouble",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "毛",
+        "Pinyin": "máo",
+        "English": "hair, fur",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "毛巾",
+        "Pinyin": "máojīn",
+        "English": "towel",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "梦",
+        "Pinyin": "mèng",
+        "English": "dream",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "密码",
+        "Pinyin": "mìmǎ",
+        "English": "password, PIN",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "民族",
+        "Pinyin": "mínzú",
+        "English": "nationality, ethnic group",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "目的",
+        "Pinyin": "mùdì",
+        "English": "purpose, aim, goal",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "母亲",
+        "Pinyin": "mǔqīn",
+        "English": "mother",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "耐心",
+        "Pinyin": "nàixīn",
+        "English": "patience",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "内",
+        "Pinyin": "nèi",
+        "English": "in, within",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "内容",
+        "Pinyin": "nèiróng",
+        "English": "content",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "能力",
+        "Pinyin": "nénglì",
+        "English": "ability",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "年龄",
+        "Pinyin": "niánlíng",
+        "English": "(a person's) age",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "判断",
+        "Pinyin": "pànduàn",
+        "English": "judgement",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "皮肤",
+        "Pinyin": "pífū",
+        "English": "skin",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "乒乓球",
+        "Pinyin": "pīngpāngqiú",
+        "English": "table tennis",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "平时",
+        "Pinyin": "píngshí",
+        "English": "usually",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "批评",
+        "Pinyin": "pīpíng",
+        "English": "criticism",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "脾气",
+        "Pinyin": "píqi",
+        "English": "temper, temperament",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "葡萄",
+        "Pinyin": "pútao",
+        "English": "grape(s)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "普通话",
+        "Pinyin": "pǔtōnghuà",
+        "English": "Mandarin (lit. \"common speech\")",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "签证",
+        "Pinyin": "qiānzhèng",
+        "English": "visa (in a passport)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "桥",
+        "Pinyin": "qiáo",
+        "English": "bridge",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "巧克力",
+        "Pinyin": "qiǎokèlì",
+        "English": "chocolate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "气候",
+        "Pinyin": "qìhòu",
+        "English": "climate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "情况",
+        "Pinyin": "qíngkuàng",
+        "English": "situation, circumstances",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "亲戚",
+        "Pinyin": "qīnqi",
+        "English": "relatives",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "其中",
+        "Pinyin": "qízhōng",
+        "English": "among",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "全部",
+        "Pinyin": "quánbù",
+        "English": "whole, entire",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "区别",
+        "Pinyin": "qūbié",
+        "English": "difference",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "缺点",
+        "Pinyin": "quēdiǎn",
+        "English": "weak point, weakness",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "任务",
+        "Pinyin": "rènwu",
+        "English": "task, assignment",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "日记",
+        "Pinyin": "rìjì",
+        "English": "diary",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "入口",
+        "Pinyin": "rùkǒu",
+        "English": "entrance",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "森林",
+        "Pinyin": "sēnlín",
+        "English": "forest",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "沙发",
+        "Pinyin": "shāfā",
+        "English": "sofa",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "勺子",
+        "Pinyin": "sháozi",
+        "English": "spoon, ladle",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "社会",
+        "Pinyin": "shèhuì",
+        "English": "society",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "省",
+        "Pinyin": "shěng",
+        "English": "province",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "生活",
+        "Pinyin": "shēnghuó",
+        "English": "life",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "生命",
+        "Pinyin": "shēngmìng",
+        "English": "(a) life (which you lose when you die)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "生意",
+        "Pinyin": "shēngyi",
+        "English": "business",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "申请",
+        "Pinyin": "shēnqǐng",
+        "English": "application",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "失败",
+        "Pinyin": "shībài",
+        "English": "failure",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "师傅",
+        "Pinyin": "shīfu",
+        "English": "master; qualified worker",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "实际",
+        "Pinyin": "shíjì",
+        "English": "actual",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "世纪",
+        "Pinyin": "shìjì",
+        "English": "century",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "首都",
+        "Pinyin": "shǒudū",
+        "English": "capital (city)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "售货员",
+        "Pinyin": "shòuhuòyuán",
+        "English": "salesperson",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "收入",
+        "Pinyin": "shōurù",
+        "English": "revenue",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "数量",
+        "Pinyin": "shùliàng",
+        "English": "amount, quantity",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "顺序",
+        "Pinyin": "shùnxù",
+        "English": "order, sequence",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "说明",
+        "Pinyin": "shuōmíng",
+        "English": "explanation, directions",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "硕士",
+        "Pinyin": "shuòshì",
+        "English": "master's degree, M.A.",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "数字",
+        "Pinyin": "shùzì",
+        "English": "number",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "速度",
+        "Pinyin": "sùdù",
+        "English": "speed; rate; velocity",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "塑料袋",
+        "Pinyin": "sùliàodài",
+        "English": "plastic bag",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "孙子",
+        "Pinyin": "sūnzi",
+        "English": "grandson",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "态度",
+        "Pinyin": "tàidu",
+        "English": "attitude",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "汤",
+        "Pinyin": "tāng",
+        "English": "soup, broth",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "糖",
+        "Pinyin": "táng",
+        "English": "sugar; candy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "讨论",
+        "Pinyin": "tǎolùn",
+        "English": "discussion",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "特点",
+        "Pinyin": "tèdiǎn",
+        "English": "characteristic, special trait",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "条件",
+        "Pinyin": "tiáojiàn",
+        "English": "conditions, circumstances, qualifications",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "同情",
+        "Pinyin": "tóngqíng",
+        "English": "sympathy, compassion",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "通知",
+        "Pinyin": "tōngzhī",
+        "English": "a notice",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "网球",
+        "Pinyin": "wǎngqiú",
+        "English": "tennis",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "网站",
+        "Pinyin": "wǎngzhàn",
+        "English": "website",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "袜子",
+        "Pinyin": "wàzi",
+        "English": "socks",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "味道",
+        "Pinyin": "wèidào",
+        "English": "flavor, smell, taste",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "卫生间",
+        "Pinyin": "wèishēngjiān",
+        "English": "restroom",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "危险",
+        "Pinyin": "wēixiǎn",
+        "English": "danger",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "温度",
+        "Pinyin": "wēndù",
+        "English": "temperature",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "文章",
+        "Pinyin": "wénzhāng",
+        "English": "essay, article",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "误会",
+        "Pinyin": "wùhuì",
+        "English": "misunderstanding",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "污染",
+        "Pinyin": "wūrǎn",
+        "English": "pollution; contamination",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "橡皮",
+        "Pinyin": "xiàngpí",
+        "English": "rubber, an eraser",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "现金",
+        "Pinyin": "xiànjīn",
+        "English": "cash",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "小吃",
+        "Pinyin": "xiǎochī",
+        "English": "snack; refreshments",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "效果",
+        "Pinyin": "xiàoguǒ",
+        "English": "positive result",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "笑话",
+        "Pinyin": "xiàohuà",
+        "English": "joke",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "小伙子",
+        "Pinyin": "xiǎohuǒzi",
+        "English": "young guy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "小说",
+        "Pinyin": "xiǎoshuō",
+        "English": "a novel",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "消息",
+        "Pinyin": "xiāoxi",
+        "English": "news",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "西红柿",
+        "Pinyin": "xīhóngshì",
+        "English": "tomato",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "信封",
+        "Pinyin": "xìnfēng",
+        "English": "envelope",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "性别",
+        "Pinyin": "xìngbié",
+        "English": "gender",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "幸福",
+        "Pinyin": "xìngfú",
+        "English": "happiness",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "性格",
+        "Pinyin": "xìnggé",
+        "English": "personality, character",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "心情",
+        "Pinyin": "xīnqíng",
+        "English": "mood",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "信息",
+        "Pinyin": "xìnxī",
+        "English": "information; news; message",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "信心",
+        "Pinyin": "xìnxīn",
+        "English": "confidence",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "学期",
+        "Pinyin": "xuéqī",
+        "English": "(school) semester",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "牙膏",
+        "Pinyin": "yágāo",
+        "English": "toothpaste",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "压力",
+        "Pinyin": "yālì",
+        "English": "pressure",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "亚洲",
+        "Pinyin": "Yàzhōu",
+        "English": "Asia",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "盐",
+        "Pinyin": "yán",
+        "English": "salt",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "演出",
+        "Pinyin": "yǎnchū",
+        "English": "performance, concert",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "样子",
+        "Pinyin": "yàngzi",
+        "English": "appearance",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "眼镜",
+        "Pinyin": "yǎnjìng",
+        "English": "glasses",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "研究",
+        "Pinyin": "yánjiū",
+        "English": "research",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "演员",
+        "Pinyin": "yǎnyuán",
+        "English": "actor or actress",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "钥匙",
+        "Pinyin": "yàoshi",
+        "English": "key",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "叶子",
+        "Pinyin": "yèzi",
+        "English": "leaf",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "意见",
+        "Pinyin": "yìjiàn",
+        "English": "opinion",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "印象",
+        "Pinyin": "yìnxiàng",
+        "English": "impression",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "艺术",
+        "Pinyin": "yìshù",
+        "English": "art",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "优点",
+        "Pinyin": "yōudiǎn",
+        "English": "strong point, strength",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "邮局",
+        "Pinyin": "yóujú",
+        "English": "post office",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "友谊",
+        "Pinyin": "yǒuyì",
+        "English": "friendship",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "原因",
+        "Pinyin": "yuányīn",
+        "English": "cause, reason",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "约会",
+        "Pinyin": "yuēhuì",
+        "English": "appointment; engagement; date;",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "语法",
+        "Pinyin": "yǔfǎ",
+        "English": "grammar",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "羽毛球",
+        "Pinyin": "yǔmáoqiú",
+        "English": "badminton, shuttlecock",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "云",
+        "Pinyin": "yún",
+        "English": "cloud",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "语言",
+        "Pinyin": "yǔyán",
+        "English": "language",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "暂时",
+        "Pinyin": "zànshí",
+        "English": "temporary; temporarily",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "杂志",
+        "Pinyin": "zázhì",
+        "English": "magazine",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "责任",
+        "Pinyin": "zérèn",
+        "English": "responsibility",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "招聘",
+        "Pinyin": "zhāopìn",
+        "English": "recruitment",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "证明",
+        "Pinyin": "zhèngmíng",
+        "English": "proof",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "支持",
+        "Pinyin": "zhīchí",
+        "English": "support",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "纸袋",
+        "Pinyin": "zhǐdài",
+        "English": "paper bag",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "质量",
+        "Pinyin": "zhìliàng",
+        "English": "quality; mass (in physics)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "知识",
+        "Pinyin": "zhīshi",
+        "English": "knowledge",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "植物",
+        "Pinyin": "zhíwù",
+        "English": "plant",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "职业",
+        "Pinyin": "zhíyè",
+        "English": "occupation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "重点",
+        "Pinyin": "zhòngdiǎn",
+        "English": "emphasis; focal point",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "周围",
+        "Pinyin": "zhōuwéi",
+        "English": "surroundings, environment",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "专业",
+        "Pinyin": "zhuānyè",
+        "English": "specialty, major",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "主意",
+        "Pinyin": "zhúyi",
+        "English": "idea",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "自然",
+        "Pinyin": "zìrán",
+        "English": "natural",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "总结",
+        "Pinyin": "zǒngjié",
+        "English": "summary",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "作家",
+        "Pinyin": "zuòjiā",
+        "English": "writer",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "座位",
+        "Pinyin": "zuòwèi",
+        "English": "seat",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "作用",
+        "Pinyin": "zuòyòng",
+        "English": "action; function; activity; impact",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "左右",
+        "Pinyin": "zuǒyòu",
+        "English": "left and right; approximately",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "作者",
+        "Pinyin": "zuòzhě",
+        "English": "author, writer",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "一",
+        "Pinyin": "yī",
+        "English": "one",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "二",
+        "Pinyin": "èr",
+        "English": "two",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "三",
+        "Pinyin": "sān",
+        "English": "three",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "四",
+        "Pinyin": "sì",
+        "English": "four",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "五",
+        "Pinyin": "wǔ",
+        "English": "five",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "六",
+        "Pinyin": "liù",
+        "English": "six",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "七",
+        "Pinyin": "qī",
+        "English": "seven",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "八",
+        "Pinyin": "bā",
+        "English": "eight",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "九",
+        "Pinyin": "jiǔ",
+        "English": "nine",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "十",
+        "Pinyin": "shí",
+        "English": "ten",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "号",
+        "Pinyin": "hào",
+        "English": "[day number in a date], number (in a series)",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "百",
+        "Pinyin": "bǎi",
+        "English": "hundred",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "第一",
+        "Pinyin": "dì-yī",
+        "English": "number one, the first",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "两",
+        "Pinyin": "liǎng",
+        "English": "two (of something)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "千",
+        "Pinyin": "qiān",
+        "English": "thousand",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "半",
+        "Pinyin": "bàn",
+        "English": "half",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "万",
+        "Pinyin": "wàn",
+        "English": "ten thousand",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "俩",
+        "Pinyin": "liǎ",
+        "English": "two, both",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "千万",
+        "Pinyin": "qiānwàn",
+        "English": "ten million",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "许多",
+        "Pinyin": "xǔduō",
+        "English": "many, numerous",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "的",
+        "Pinyin": "de",
+        "English": "[structural particle]",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "了",
+        "Pinyin": "le",
+        "English": "[aspectual particle]",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "吗",
+        "Pinyin": "ma",
+        "English": "[question particle]",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "呢",
+        "Pinyin": "ne",
+        "English": "[question particle]",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "吧",
+        "Pinyin": "ba",
+        "English": "[modal particle for suggestions]",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "得",
+        "Pinyin": "de",
+        "English": "[structural particle used after a verb]",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "过",
+        "Pinyin": "guo",
+        "English": "[aspectual particle to indicate experience]",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "着",
+        "Pinyin": "zhe",
+        "English": "[aspectual particle indicating a continuous state]",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "地",
+        "Pinyin": "de",
+        "English": "[structural particle used before a verb or adjective]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "啊",
+        "Pinyin": "a",
+        "English": "[sentence-final modal particle]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "等",
+        "Pinyin": "děng",
+        "English": "etc.",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "呀",
+        "Pinyin": "ya",
+        "English": "[modal particle equivalent often used to express surprise or enthusiasm]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "之",
+        "Pinyin": "zhī",
+        "English": "[possessive particle, literary equivalent of 的]",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "你",
+        "Pinyin": "nǐ",
+        "English": "you",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "他",
+        "Pinyin": "tā",
+        "English": "he, him",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "她",
+        "Pinyin": "tā",
+        "English": "she, her",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "我",
+        "Pinyin": "wǒ",
+        "English": "I, me",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "我们",
+        "Pinyin": "wǒmen",
+        "English": "we, us",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "大家",
+        "Pinyin": "dàjiā",
+        "English": "everyone",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "您",
+        "Pinyin": "nín",
+        "English": "you (polite form)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "它",
+        "Pinyin": "tā",
+        "English": "it",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "自己",
+        "Pinyin": "zìjǐ",
+        "English": "oneself",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "咱们",
+        "Pinyin": "zánmen",
+        "English": "we, us (you and I)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "不客气",
+        "Pinyin": "búkèqì",
+        "English": "you are welcome",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "打电话",
+        "Pinyin": "dǎ diànhuà",
+        "English": "to call on the phone",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "没关系",
+        "Pinyin": "méi guānxì",
+        "English": "it doesn’t matter",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": "打篮球",
+        "Pinyin": "dǎ lánqiú",
+        "English": "to play basketball",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "踢足球",
+        "Pinyin": "tī zúqiú",
+        "English": "to play soccer",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "感兴趣",
+        "Pinyin": "gǎn xìngqù",
+        "English": "to be interested in",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "百分之",
+        "Pinyin": "bǎifēnzhī",
+        "English": "percent",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "不得不",
+        "Pinyin": "bùdébù",
+        "English": "have no choice but",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "开玩笑",
+        "Pinyin": "kāi wánxiào",
+        "English": "to play a joke; to make fun of; to joke",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "打招呼",
+        "Pinyin": "dǎ zhāohu",
+        "English": "to greet somebody",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "放暑假",
+        "Pinyin": "fàng shǔjià",
+        "English": "to be on summer vacation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "受不了",
+        "Pinyin": "shòu buliǎo",
+        "English": "to be unable to stand",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "弹钢琴",
+        "Pinyin": "tán gāngqín",
+        "English": "to play the piano",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "在",
+        "Pinyin": "zài",
+        "English": "in, at",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "比",
+        "Pinyin": "bǐ",
+        "English": "to compare, to compete; [particle for comparisons]",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "从",
+        "Pinyin": "cóng",
+        "English": "from; via",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "对",
+        "Pinyin": "duì",
+        "English": "toward",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "给",
+        "Pinyin": "gěi",
+        "English": "to, for",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "往",
+        "Pinyin": "wǎng",
+        "English": "towards",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "被",
+        "Pinyin": "bèi",
+        "English": "[passive marker]",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "除了",
+        "Pinyin": "chúle",
+        "English": "except for",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "跟",
+        "Pinyin": "gēn",
+        "English": "and, with",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "根据",
+        "Pinyin": "gēnjù",
+        "English": "according to, based on",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "关于",
+        "Pinyin": "guānyú",
+        "English": "about, concerning, regarding",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "为",
+        "Pinyin": "wèi",
+        "English": "for; to",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "为了",
+        "Pinyin": "wèile",
+        "English": "for the purpose of, in order to",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "向",
+        "Pinyin": "xiàng",
+        "English": "towards",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "按照",
+        "Pinyin": "ànzhào",
+        "English": "according to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "当",
+        "Pinyin": "dāng",
+        "English": "at the time of",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "对于",
+        "Pinyin": "duìyú",
+        "English": "regarding, with regards to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "各",
+        "Pinyin": "gè",
+        "English": "each, every",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "连",
+        "Pinyin": "lián",
+        "English": "even",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "其次",
+        "Pinyin": "qícì",
+        "English": "next",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "任何",
+        "Pinyin": "rènhé",
+        "English": "any",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "首先",
+        "Pinyin": "shǒuxiān",
+        "English": "first of all",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "随着",
+        "Pinyin": "suízhe",
+        "English": "along with",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "通过",
+        "Pinyin": "tōngguò",
+        "English": "via, by means of",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "以",
+        "Pinyin": "yǐ",
+        "English": "with, using, by means of",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "一切",
+        "Pinyin": "yīqiè",
+        "English": "everything",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "由",
+        "Pinyin": "yóu",
+        "English": "by way of; by",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "与",
+        "Pinyin": "yú",
+        "English": "with, to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "爱",
+        "Pinyin": "ài",
+        "English": "to love",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "吃",
+        "Pinyin": "chī",
+        "English": "to eat",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "读",
+        "Pinyin": "dú",
+        "English": "to read",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "对不起",
+        "Pinyin": "duìbùqǐ",
+        "English": "sorry",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "工作",
+        "Pinyin": "gōngzuò",
+        "English": "to work",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "喝",
+        "Pinyin": "hē",
+        "English": "to drink",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "回",
+        "Pinyin": "huí",
+        "English": "to return",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "叫",
+        "Pinyin": "jiào",
+        "English": "to call, to be called",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "开",
+        "Pinyin": "kāi",
+        "English": "to open",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "看",
+        "Pinyin": "kàn",
+        "English": "to look (at)",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "看见",
+        "Pinyin": "kànjiàn",
+        "English": "to see",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "来",
+        "Pinyin": "lái",
+        "English": "to come",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "没有",
+        "Pinyin": "méiyǒu",
+        "English": "to not have",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "买",
+        "Pinyin": "mǎi",
+        "English": "to buy",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "请",
+        "Pinyin": "qǐng",
+        "English": "please",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "去",
+        "Pinyin": "qù",
+        "English": "to go",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "认识",
+        "Pinyin": "rènshi",
+        "English": "to be familiar with",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "是",
+        "Pinyin": "shì",
+        "English": "to be (am, is, are)",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "睡觉",
+        "Pinyin": "shuìjiào",
+        "English": "to sleep",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "说",
+        "Pinyin": "shuō",
+        "English": "to say. to speak",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "听",
+        "Pinyin": "tīng",
+        "English": "to listen (to)",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "下雨",
+        "Pinyin": "xiàyǔ",
+        "English": "to rain",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "写",
+        "Pinyin": "xiě",
+        "English": "to write",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "谢谢",
+        "Pinyin": "xièxie",
+        "English": "thank you; to thank",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "English": "to like",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "学习",
+        "Pinyin": "xuéxí",
+        "English": "to study",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "有",
+        "Pinyin": "yǒu",
+        "English": "to have",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "再见",
+        "Pinyin": "zàijiàn",
+        "English": "good-bye",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "住",
+        "Pinyin": "zhù",
+        "English": "to live (in\/at)",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "做",
+        "Pinyin": "zuò",
+        "English": "to do",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "坐",
+        "Pinyin": "zuò",
+        "English": "to sit",
+        "HSKLevel": "HSK 1"
+    },
+    {
+        "Chinese": "帮助",
+        "Pinyin": "bāngzhù",
+        "English": "help; to help",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "唱歌",
+        "Pinyin": "chànggē",
+        "English": "to sing a song",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "出",
+        "Pinyin": "chū",
+        "English": "to go out; to happen",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "穿",
+        "Pinyin": "chuān",
+        "English": "to wear, to put on; to pierce",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "到",
+        "Pinyin": "dào",
+        "English": "to arrive; to (a place), until (a time)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "等",
+        "Pinyin": "děng",
+        "English": "to wait (for)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "懂",
+        "Pinyin": "dǒng",
+        "English": "to understand",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "告诉",
+        "Pinyin": "gàosu",
+        "English": "to tell, to inform",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "给",
+        "Pinyin": "gěi",
+        "English": "to give",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "介绍",
+        "Pinyin": "jièshào",
+        "English": "to introduce",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "进",
+        "Pinyin": "jìn",
+        "English": "to enter, to go in",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "觉得",
+        "Pinyin": "juéde",
+        "English": "to think; to feel",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "开始",
+        "Pinyin": "kāishǐ",
+        "English": "to start; beginning",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "离",
+        "Pinyin": "lí",
+        "English": "to be distanced from",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "旅游",
+        "Pinyin": "lǚyóu",
+        "English": "to travel",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "卖",
+        "Pinyin": "mài",
+        "English": "to sell",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "跑步",
+        "Pinyin": "pǎobù",
+        "English": "to jog, to go running",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "起床",
+        "Pinyin": "qǐchuáng",
+        "English": "to get up (out of bed)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "让",
+        "Pinyin": "ràng",
+        "English": "to let, to make, to have (someone do something)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "上班",
+        "Pinyin": "shàngbān",
+        "English": "to go to work",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "生病",
+        "Pinyin": "shēngbìng",
+        "English": "to fall ill, to get sick",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "说话",
+        "Pinyin": "shuōhuà",
+        "English": "to speak (words), to talk",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "送",
+        "Pinyin": "sòng",
+        "English": "to give (a gift); to deliver, to send; to see off (a person)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "跳舞",
+        "Pinyin": "tiàowǔ",
+        "English": "to dance (a dance)",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "完",
+        "Pinyin": "wán",
+        "English": "to finish",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "玩",
+        "Pinyin": "wán",
+        "English": "to play (with); to have fun",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "晚上",
+        "Pinyin": "wǎnshang",
+        "English": "evening",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "问",
+        "Pinyin": "wèn",
+        "English": "to ask",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "笑",
+        "Pinyin": "xiào",
+        "English": "to laugh, to smile",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "姓",
+        "Pinyin": "xìng",
+        "English": "to be surnamed",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "休息",
+        "Pinyin": "xiūxi",
+        "English": "to rest, to sleep",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "游泳",
+        "Pinyin": "yóuyǒng",
+        "English": "to swim",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "运动",
+        "Pinyin": "yùndòng",
+        "English": "to exercise, to play sports",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "找",
+        "Pinyin": "zhǎo",
+        "English": "to look for; to call on someone",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "知道",
+        "Pinyin": "zhīdào",
+        "English": "to know",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "准备",
+        "Pinyin": "zhǔnbèi",
+        "English": "to prepare",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "走",
+        "Pinyin": "zǒu",
+        "English": "to walk, to go, to leave",
+        "HSKLevel": "HSK 2"
+    },
+    {
+        "Chinese": "搬",
+        "Pinyin": "bān",
+        "English": "to move (house, or large heavy objects)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "帮忙",
+        "Pinyin": "bāngmáng",
+        "English": "to help, to do a favor",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "变化",
+        "Pinyin": "biànhuà",
+        "English": "to change",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "表示",
+        "Pinyin": "biǎoshì",
+        "English": "to show, to indicate",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "表演",
+        "Pinyin": "biǎoyǎn",
+        "English": "to perform, to act",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "参加",
+        "Pinyin": "cānjiā",
+        "English": "to participate in, to attend",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "差",
+        "Pinyin": "chà",
+        "English": "poor quality; to differ",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "迟到",
+        "Pinyin": "chídào",
+        "English": "to arrive late",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "出现",
+        "Pinyin": "chūxiàn",
+        "English": "to appear",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "带",
+        "Pinyin": "dài",
+        "English": "to carry",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "担心",
+        "Pinyin": "dānxīn",
+        "English": "to worry",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "打扫",
+        "Pinyin": "dǎsǎo",
+        "English": "to clean",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "打算",
+        "Pinyin": "dǎsuàn",
+        "English": "to plan (to)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "懂",
+        "Pinyin": "dǒng",
+        "English": "to understand",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "锻炼",
+        "Pinyin": "duànliàn",
+        "English": "to exercise, to work out, to train a skill",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "发",
+        "Pinyin": "fā",
+        "English": "to send out",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "放",
+        "Pinyin": "fàng",
+        "English": "to put, to place; to release",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "放心",
+        "Pinyin": "fàngxīn",
+        "English": "to be at ease",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "发烧",
+        "Pinyin": "fāshāo",
+        "English": "to have a fever",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "发现",
+        "Pinyin": "fāxiàn",
+        "English": "to find; to discover",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "分",
+        "Pinyin": "fēn",
+        "English": "to divide, to separate",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "复习",
+        "Pinyin": "fùxí",
+        "English": "to review (as part of one's studies)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "敢",
+        "Pinyin": "gǎn",
+        "English": "to dare (to)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "感冒",
+        "Pinyin": "gǎnmào",
+        "English": "to catch cold, to have a cold; a cold",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "刮风",
+        "Pinyin": "guāfēng",
+        "English": "the wind blows",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "关",
+        "Pinyin": "guān",
+        "English": "to close, to shut, to turn off",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "关心",
+        "Pinyin": "guānxīn",
+        "English": "to care for, to be concerned about",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "过",
+        "Pinyin": "guò",
+        "English": "to spend, to pass",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "害怕",
+        "Pinyin": "hàipà",
+        "English": "to be afraid; to be scared",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "花",
+        "Pinyin": "huā",
+        "English": "to spend (money, time)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "画",
+        "Pinyin": "huà",
+        "English": "to draw",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "还",
+        "Pinyin": "huán",
+        "English": "to return (money, etc.)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "换",
+        "Pinyin": "huàn",
+        "English": "to replace; to exchange",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "欢迎",
+        "Pinyin": "huānyíng",
+        "English": "to welcome",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "回答",
+        "Pinyin": "huídá",
+        "English": "to reply, to answer; the answer",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "检查",
+        "Pinyin": "jiǎnchá",
+        "English": "to inspect, to examine",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "讲",
+        "Pinyin": "jiǎng",
+        "English": "to speak",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "见面",
+        "Pinyin": "jiànmiàn",
+        "English": "to meet",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "教",
+        "Pinyin": "jiāo",
+        "English": "to teach",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "记得",
+        "Pinyin": "jìde",
+        "English": "to remember",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "接",
+        "Pinyin": "jiē",
+        "English": "to receive, to pick up",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "借",
+        "Pinyin": "jiè",
+        "English": "to lend, to borrow",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "结婚",
+        "Pinyin": "jiéhūn",
+        "English": "to get married",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "解决",
+        "Pinyin": "jiějué",
+        "English": "to resolve",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "结束",
+        "Pinyin": "jiéshù",
+        "English": "to be finished",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "经过",
+        "Pinyin": "jīngguò",
+        "English": "to pass, to go through",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "决定",
+        "Pinyin": "juédìng",
+        "English": "to decide",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "哭",
+        "Pinyin": "kū",
+        "English": "to cry",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "练习",
+        "Pinyin": "liànxí",
+        "English": "to practice",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "离开",
+        "Pinyin": "líkāi",
+        "English": "to leave",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "了解",
+        "Pinyin": "liǎojiě",
+        "English": "to be fully familiar with",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "聊天",
+        "Pinyin": "liáotiān",
+        "English": "to chat",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "留学",
+        "Pinyin": "liúxué",
+        "English": "to study abroad",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "卖",
+        "Pinyin": "mài",
+        "English": "to sell",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "满意",
+        "Pinyin": "mǎnyì",
+        "English": "to be satisfied",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "明白",
+        "Pinyin": "míngbai",
+        "English": "to understand, to realize",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "拿",
+        "Pinyin": "ná",
+        "English": "to get, to pick up",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "爬山",
+        "Pinyin": "páshān",
+        "English": "to climb a mountain, to go hiking",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "骑",
+        "Pinyin": "qí",
+        "English": "to ride (by straddling, as when riding a horse or bike)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "起床",
+        "Pinyin": "qǐchuáng",
+        "English": "to get up (out of bed)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "起飞",
+        "Pinyin": "qǐfēi",
+        "English": "to take off (in an airplane)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "起来",
+        "Pinyin": "qǐlái",
+        "English": "to get up; upward",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "请",
+        "Pinyin": "qǐng",
+        "English": "to invite, to request, to treat (to a meal, etc.); please",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "请假",
+        "Pinyin": "qǐngjià",
+        "English": "to ask for leave",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "认为",
+        "Pinyin": "rènwéi",
+        "English": "to believe; to think",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "上网",
+        "Pinyin": "shàngwǎng",
+        "English": "to go online, to use the internet",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "生气",
+        "Pinyin": "shēngqì",
+        "English": "to get angry",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "使",
+        "Pinyin": "shǐ",
+        "English": "to make, to cause",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "试",
+        "Pinyin": "shì",
+        "English": "to try",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "刷牙",
+        "Pinyin": "shuāyá",
+        "English": "to brush one's teeth",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "疼",
+        "Pinyin": "téng",
+        "English": "to hurt, to be sore; to love dearly",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "提高",
+        "Pinyin": "tígāo",
+        "English": "to raise; to improve",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "同意",
+        "Pinyin": "tóngyì",
+        "English": "to agree",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "完成",
+        "Pinyin": "wánchéng",
+        "English": "to complete",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "忘记",
+        "Pinyin": "wàngjì",
+        "English": "to forget",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "像",
+        "Pinyin": "xiàng",
+        "English": "to resemble; like",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "相信",
+        "Pinyin": "xiāngxìn",
+        "English": "to believe (that)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "洗澡",
+        "Pinyin": "xǐzǎo",
+        "English": "to bathe, to take a shower",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "选择",
+        "Pinyin": "xuǎnzé",
+        "English": "to choose",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "学习",
+        "Pinyin": "xuéxí",
+        "English": "to learn; to study",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "需要",
+        "Pinyin": "xūyào",
+        "English": "to need",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "要求",
+        "Pinyin": "yāoqiú",
+        "English": "to demand",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "应该",
+        "Pinyin": "yīnggāi",
+        "English": "ought to, should",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "以为",
+        "Pinyin": "yǐwéi",
+        "English": "to (mistakenly) think (that)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "用",
+        "Pinyin": "yòng",
+        "English": "to use",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "愿意",
+        "Pinyin": "yuànyì",
+        "English": "to be willing (to do sth)",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "遇到",
+        "Pinyin": "yùdào",
+        "English": "to run into, to come across",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "再见",
+        "Pinyin": "zàijiàn",
+        "English": "goodbye, see you later",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "站",
+        "Pinyin": "zhàn",
+        "English": "to stand; station, stop",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "长",
+        "Pinyin": "zhǎng",
+        "English": "to grow",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "照顾",
+        "Pinyin": "zhàogu",
+        "English": "to take care of",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "祝",
+        "Pinyin": "zhù",
+        "English": "to wish",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "注意",
+        "Pinyin": "zhùyì",
+        "English": "to pay attention",
+        "HSKLevel": "HSK 3"
+    },
+    {
+        "Chinese": "安排",
+        "Pinyin": "ānpái",
+        "English": "to arrange",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "抱",
+        "Pinyin": "bào",
+        "English": "to hold, to hug",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "保护",
+        "Pinyin": "bǎohù",
+        "English": "to protect",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "报名",
+        "Pinyin": "bàomíng",
+        "English": "to sign up (for)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "抱歉",
+        "Pinyin": "bàoqiàn",
+        "English": "to be sorry; to feel apologetic; sorry",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "保证",
+        "Pinyin": "bǎozhèng",
+        "English": "to guarantee",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "表示",
+        "Pinyin": "biǎoshì",
+        "English": "to show, to indicate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "表演",
+        "Pinyin": "biǎoyǎn",
+        "English": "to perform; to act; to demonstrate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "表扬",
+        "Pinyin": "biǎoyáng",
+        "English": "to praise; to commend",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "比如",
+        "Pinyin": "bǐrú",
+        "English": "for example",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "毕业",
+        "Pinyin": "bìyè",
+        "English": "to graduate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "擦",
+        "Pinyin": "cā",
+        "English": "to wipe, to scrub, to erase",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "猜",
+        "Pinyin": "cāi",
+        "English": "to guess",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "参观",
+        "Pinyin": "cānguān",
+        "English": "to visit; to tour",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "尝",
+        "Pinyin": "cháng",
+        "English": "to try (a food)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "超过",
+        "Pinyin": "chāoguò",
+        "English": "to surpass; to exceed; to outstrip",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "成功",
+        "Pinyin": "chénggōng",
+        "English": "to succeed",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "成为",
+        "Pinyin": "chéngwéi",
+        "English": "to be",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "乘坐",
+        "Pinyin": "chéngzuò",
+        "English": "to ride (in a vehicle)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "吃惊",
+        "Pinyin": "chījīng",
+        "English": "to be surprised",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "抽烟",
+        "Pinyin": "chōuyān",
+        "English": "to smoke",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "传真",
+        "Pinyin": "chuánzhēn",
+        "English": "to send by fax",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "出差",
+        "Pinyin": "chūchāi",
+        "English": "to go on a business trip",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "出发",
+        "Pinyin": "chūfā",
+        "English": "to depart, to set off",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "出生",
+        "Pinyin": "chūshēng",
+        "English": "to be born",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "出现",
+        "Pinyin": "chūxiàn",
+        "English": "to appear",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "存",
+        "Pinyin": "cún",
+        "English": "to save (money, computer files, etc.)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "打扮",
+        "Pinyin": "dǎban",
+        "English": "to dress up, to make oneself up; to dress up (as)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "戴",
+        "Pinyin": "dài",
+        "English": "to carry; to wear (an accessory)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "倒",
+        "Pinyin": "dǎo",
+        "English": "to fall over",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "道歉",
+        "Pinyin": "dàoqiàn",
+        "English": "to apologize",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "打扰",
+        "Pinyin": "dǎrǎo",
+        "English": "to disturb, to bother, to trouble",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "打印",
+        "Pinyin": "dǎyìn",
+        "English": "to print",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "打折",
+        "Pinyin": "dǎzhé",
+        "English": "to give a discount",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "打针",
+        "Pinyin": "dǎzhēn",
+        "English": "to give or have an injection",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "掉",
+        "Pinyin": "diào",
+        "English": "to fall",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "调查",
+        "Pinyin": "diàochá",
+        "English": "to survey",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "丢",
+        "Pinyin": "diū",
+        "English": "to become lost, to throw, to cast",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "堵车",
+        "Pinyin": "dǔchē",
+        "English": "(of traffic) to be congested",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "对话",
+        "Pinyin": "duìhuà",
+        "English": "to have a dialog",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "反对",
+        "Pinyin": "fǎnduì",
+        "English": "to oppose",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "放弃",
+        "Pinyin": "fàngqì",
+        "English": "to give up, to abandon",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "放松",
+        "Pinyin": "fàngsōng",
+        "English": "to loosen; to relax",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "翻译",
+        "Pinyin": "fānyì",
+        "English": "to translate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "发生",
+        "Pinyin": "fāshēng",
+        "English": "to happen",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "发展",
+        "Pinyin": "fāzhǎn",
+        "English": "to develop, to grow, to expand",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "丰富",
+        "Pinyin": "fēngfù",
+        "English": "to enrich",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "符合",
+        "Pinyin": "fúhé",
+        "English": "to accord with; to meet (some criteria)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "付款",
+        "Pinyin": "fùkuǎn",
+        "English": "to make a payment; payment",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "复印",
+        "Pinyin": "fùyìn",
+        "English": "to photocopy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "负责",
+        "Pinyin": "fùzé",
+        "English": "to be in charge of",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "改变",
+        "Pinyin": "gǎibiàn",
+        "English": "to change; a change",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "赶",
+        "Pinyin": "gǎn",
+        "English": "to hurry, to rush, to catch up with",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "敢",
+        "Pinyin": "gǎn",
+        "English": "to dare (to)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "干",
+        "Pinyin": "gàn",
+        "English": "to work; to do",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "干杯",
+        "Pinyin": "gānbēi",
+        "English": "cheers!",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "感动",
+        "Pinyin": "gǎndòng",
+        "English": "to move emotionally, to touch emotionally",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "感谢",
+        "Pinyin": "gǎnxiè",
+        "English": "to be grateful",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "够",
+        "Pinyin": "gòu",
+        "English": "to be enough",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "购物",
+        "Pinyin": "gòuwù",
+        "English": "shopping",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "挂",
+        "Pinyin": "guà",
+        "English": "to hang or suspend (from a hook etc); (of a telephone call) to hang up",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "逛",
+        "Pinyin": "guàng",
+        "English": "to stroll around, to browse shops",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "广播",
+        "Pinyin": "guǎngbō",
+        "English": "to broadcast",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "管理",
+        "Pinyin": "guǎnlǐ",
+        "English": "to manage; management",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "规定",
+        "Pinyin": "guīdìng",
+        "English": "to make a regulation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "估计",
+        "Pinyin": "gūjì",
+        "English": "to estimate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "鼓励",
+        "Pinyin": "gǔlì",
+        "English": "to encourage; encouragement",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "害羞",
+        "Pinyin": "hàixiū",
+        "English": "shy",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "合格",
+        "Pinyin": "hégé",
+        "English": "to meet standard",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "后悔",
+        "Pinyin": "hòuhuǐ",
+        "English": "to regret",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "怀疑",
+        "Pinyin": "huáiyí",
+        "English": "to suspect; to doubt",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "回忆",
+        "Pinyin": "huíyì",
+        "English": "to recall",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "获得",
+        "Pinyin": "huòdé",
+        "English": "to obtain",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "寄",
+        "Pinyin": "jì",
+        "English": "to mail, to send",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "加班",
+        "Pinyin": "jiābān",
+        "English": "work overtime, work an extra shift",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "坚持",
+        "Pinyin": "jiānchí",
+        "English": "to persevere, to persist in",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "减肥",
+        "Pinyin": "jiǎnféi",
+        "English": "to lose weight",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "降低",
+        "Pinyin": "jiàngdī",
+        "English": "to reduce",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "降落",
+        "Pinyin": "jiàngluò",
+        "English": "to land, to descend",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "减少",
+        "Pinyin": "jiǎnshǎo",
+        "English": "to decrease",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "建议",
+        "Pinyin": "jiànyì",
+        "English": "to suggest, to recommend",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "交",
+        "Pinyin": "jiāo",
+        "English": "to make (friends)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "交流",
+        "Pinyin": "jiāoliú",
+        "English": "to communicate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "教育",
+        "Pinyin": "jiàoyù",
+        "English": "to educate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "解释",
+        "Pinyin": "jiěshì",
+        "English": "to explain",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "接受",
+        "Pinyin": "jiēshòu",
+        "English": "to accept",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "节约",
+        "Pinyin": "jiéyuē",
+        "English": "to economize; to conserve (resources)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "计划",
+        "Pinyin": "jìhuà",
+        "English": "to plan; to map out",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "积累",
+        "Pinyin": "jīlěi",
+        "English": "to accumulate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "经历",
+        "Pinyin": "jīnglì",
+        "English": "to go through (an experience)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "竞争",
+        "Pinyin": "jìngzhēng",
+        "English": "to compete",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "镜子",
+        "Pinyin": "jìngzi",
+        "English": "mirror",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "进行",
+        "Pinyin": "jìnxíng",
+        "English": "to advance, to conduct, to carry on (a plan of action)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "禁止",
+        "Pinyin": "jìnzhǐ",
+        "English": "to prohibit; to forbid; to ban",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "继续",
+        "Pinyin": "jìxù",
+        "English": "to continue",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "举",
+        "Pinyin": "jǔ",
+        "English": "to raise, to lift",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "举办",
+        "Pinyin": "jǔbàn",
+        "English": "to conduct; to hold",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "聚会",
+        "Pinyin": "jùhuì",
+        "English": "to have a party",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "拒绝",
+        "Pinyin": "jùjué",
+        "English": "to refuse, to reject",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "举行",
+        "Pinyin": "jǔxíng",
+        "English": "to hold (a party, meeting, activity, etc.)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "考虑",
+        "Pinyin": "kǎolǜ",
+        "English": "to consider",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "咳嗽",
+        "Pinyin": "késou",
+        "English": "to cough",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "拉",
+        "Pinyin": "lā",
+        "English": "to pull",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "来不及",
+        "Pinyin": "láibují",
+        "English": "to not have enough time to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "来得及",
+        "Pinyin": "láidejí",
+        "English": "can make it in time",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "来自",
+        "Pinyin": "láizì",
+        "English": "to come from",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "浪费",
+        "Pinyin": "làngfèi",
+        "English": "to waste",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "联系",
+        "Pinyin": "liánxì",
+        "English": "to contact",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "理发",
+        "Pinyin": "lǐfà",
+        "English": "to get one's hair cut",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "理解",
+        "Pinyin": "lǐjiě",
+        "English": "to comprehend",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "例如",
+        "Pinyin": "lìrú",
+        "English": "for example",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "留",
+        "Pinyin": "liú",
+        "English": "to leave (something for someone)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "流行",
+        "Pinyin": "liúxíng",
+        "English": "to be popular",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "旅行",
+        "Pinyin": "lǚxíng",
+        "English": "to travel",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "麻烦",
+        "Pinyin": "máfan",
+        "English": "to trouble or bother someone",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "满",
+        "Pinyin": "mǎn",
+        "English": "to reach a quota or limit",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "免费",
+        "Pinyin": "miǎnfèi",
+        "English": "to be free of charge",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "迷路",
+        "Pinyin": "mílù",
+        "English": "to get lost",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "弄",
+        "Pinyin": "nòng",
+        "English": "to do",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "排队",
+        "Pinyin": "páiduì",
+        "English": "to line up",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "排列",
+        "Pinyin": "páiliè",
+        "English": "to arrange in order",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "判断",
+        "Pinyin": "pànduàn",
+        "English": "to judge, to determine",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "陪",
+        "Pinyin": "péi",
+        "English": "to accompany; to keep someone company",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "骗",
+        "Pinyin": "piàn",
+        "English": "to trick, to fool, to cheat, to deceive",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "批评",
+        "Pinyin": "pīpíng",
+        "English": "to criticize",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "破",
+        "Pinyin": "pò",
+        "English": "to break",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "敲",
+        "Pinyin": "qiāo",
+        "English": "to knock, to strike, to tap",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "取",
+        "Pinyin": "qǔ",
+        "English": "to take",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "缺少",
+        "Pinyin": "quēshǎo",
+        "English": "to lack",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "扔",
+        "Pinyin": "rēng",
+        "English": "to throw, to throw away",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "散步",
+        "Pinyin": "sànbù",
+        "English": "to take a walk",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "商量",
+        "Pinyin": "shāngliang",
+        "English": "to discuss and come to an agreement",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "省",
+        "Pinyin": "shěng",
+        "English": "to save, to economize",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "剩",
+        "Pinyin": "shèng",
+        "English": "to remain, to be left",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "生活",
+        "Pinyin": "shēnghuó",
+        "English": "to live",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "申请",
+        "Pinyin": "shēnqǐng",
+        "English": "to apply (for)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "使",
+        "Pinyin": "shǐ",
+        "English": "to make, to cause",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "失败",
+        "Pinyin": "shībài",
+        "English": "to fail",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "适合",
+        "Pinyin": "shìhé",
+        "English": "to fit, to suit",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "失望",
+        "Pinyin": "shīwàng",
+        "English": "to be disappointed",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "适应",
+        "Pinyin": "shìyìng",
+        "English": "to adapt to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "使用",
+        "Pinyin": "shǐyòng",
+        "English": "to use; to employ; to apply; to make use of",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "收",
+        "Pinyin": "shōu",
+        "English": "to receive (money)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "受到",
+        "Pinyin": "shòudào",
+        "English": "to receive",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "收拾",
+        "Pinyin": "shōushi",
+        "English": "to clear away",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "输",
+        "Pinyin": "shū",
+        "English": "to lose (a competition)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "说明",
+        "Pinyin": "shuōmíng",
+        "English": "to indicate, to show",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "熟悉",
+        "Pinyin": "shúxī",
+        "English": "to be familiar with",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "死",
+        "Pinyin": "sǐ",
+        "English": "to die",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "抬",
+        "Pinyin": "tái",
+        "English": "to lift, to raise",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "谈",
+        "Pinyin": "tán",
+        "English": "to talk",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "躺",
+        "Pinyin": "tǎng",
+        "English": "to lie on one's back",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "讨论",
+        "Pinyin": "tǎolùn",
+        "English": "to discuss",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "讨厌",
+        "Pinyin": "tǎoyàn",
+        "English": "to dislike, to hate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "提",
+        "Pinyin": "tí",
+        "English": "to raise (an issue), to mention",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "填空",
+        "Pinyin": "tiánkòng",
+        "English": "to fill in the blank",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "提供",
+        "Pinyin": "tígōng",
+        "English": "to provide",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "停",
+        "Pinyin": "tíng",
+        "English": "to stop",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "提前",
+        "Pinyin": "tíqián",
+        "English": "to move up the date",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "提醒",
+        "Pinyin": "tíxǐng",
+        "English": "to remind",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "同情",
+        "Pinyin": "tóngqíng",
+        "English": "to show sympathy for",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "通知",
+        "Pinyin": "tōngzhī",
+        "English": "to notify",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "推",
+        "Pinyin": "tuī",
+        "English": "to push",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "推迟",
+        "Pinyin": "tuīchí",
+        "English": "to postpone",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "脱",
+        "Pinyin": "tuō",
+        "English": "to take off (clothing)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "无",
+        "Pinyin": "wú",
+        "English": "not to have",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "无法",
+        "Pinyin": "wúfǎ",
+        "English": "to have no way to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "误会",
+        "Pinyin": "wùhuì",
+        "English": "to misunderstand",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "污染",
+        "Pinyin": "wūrǎn",
+        "English": "to pollute",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "响",
+        "Pinyin": "xiǎng",
+        "English": "to make a sound",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "羡慕",
+        "Pinyin": "xiànmù",
+        "English": "to be envious of",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "笑话",
+        "Pinyin": "xiàohuà",
+        "English": "to laugh at",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "行",
+        "Pinyin": "xíng",
+        "English": "all right, OK",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "醒",
+        "Pinyin": "xǐng",
+        "English": "to wake up",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "修理",
+        "Pinyin": "xiūlǐ",
+        "English": "to repair, to fix",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "吸引",
+        "Pinyin": "xīyǐn",
+        "English": "to attract",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "演出",
+        "Pinyin": "yǎnchū",
+        "English": "to perform",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "养成",
+        "Pinyin": "yǎngchéng",
+        "English": "to cultivate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "研究",
+        "Pinyin": "yánjiū",
+        "English": "to research",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "邀请",
+        "Pinyin": "yāoqǐng",
+        "English": "to invite; invitation",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "赢",
+        "Pinyin": "yíng",
+        "English": "to win",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "应聘",
+        "Pinyin": "yìngpìn",
+        "English": "to apply for a job",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "引起",
+        "Pinyin": "yǐnqǐ",
+        "English": "to lead to, to cause",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "以为",
+        "Pinyin": "yǐwéi",
+        "English": "to (mistakenly) think (that)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "原谅",
+        "Pinyin": "yuánliàng",
+        "English": "to forgive",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "阅读",
+        "Pinyin": "yuèdú",
+        "English": "to read",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "约会",
+        "Pinyin": "yuēhuì",
+        "English": "to date, to go to an appointment",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "允许",
+        "Pinyin": "yǔnxǔ",
+        "English": "to allow, to permit",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "预习",
+        "Pinyin": "yùxí",
+        "English": "to prepare for a lesson",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "增加",
+        "Pinyin": "zēngjiā",
+        "English": "to add, to increase",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "占线",
+        "Pinyin": "zhànxiàn",
+        "English": "to be busy (telephone line)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "照",
+        "Pinyin": "zhào",
+        "English": "to take a picture",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "招聘",
+        "Pinyin": "zhāopìn",
+        "English": "to seek applicants for a job",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "整理",
+        "Pinyin": "zhěnglǐ",
+        "English": "to organize, to tidy up",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "证明",
+        "Pinyin": "zhèngmíng",
+        "English": "to prove",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "指",
+        "Pinyin": "zhǐ",
+        "English": "to refer to",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "支持",
+        "Pinyin": "zhīchí",
+        "English": "to support",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "值得",
+        "Pinyin": "zhíde",
+        "English": "to be worth (doing)",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "重视",
+        "Pinyin": "zhòngshì",
+        "English": "to attach importance to, to value",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "转",
+        "Pinyin": "zhuǎn",
+        "English": "to revolve; to turn",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "赚",
+        "Pinyin": "zhuàn",
+        "English": "to earn; to make a profit",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "祝贺",
+        "Pinyin": "zhùhè",
+        "English": "to congratulate",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "总结",
+        "Pinyin": "zǒngjié",
+        "English": "to sum up",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "租",
+        "Pinyin": "zū",
+        "English": "to rent",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "尊重",
+        "Pinyin": "zūnzhòng",
+        "English": "to respect",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": "作用",
+        "Pinyin": "zuòyòng",
+        "English": "to act on; to affect",
+        "HSKLevel": "HSK 4"
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    },
+    {
+        "Chinese": null,
+        "Pinyin": null,
+        "English": null,
+        "HSKLevel": null
+    }
+]
