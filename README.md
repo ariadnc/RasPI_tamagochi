@@ -5,11 +5,6 @@ A little Raspberry Pi companion designed to help you learn and practice **Chines
 
 The Tamagochi asks you questions about Chinese characters and words, helping you practice both their **meaning** and **pronunciation** in a fun and interactive way.
 
-## 🎯 Goal
-
-The goal of this project is to combine **language learning + electronics + programming** into a small interactive device.
-
-Instead of studying vocabulary from a screen or flashcards, your little companion will quiz you and react to your answers.
 
 ## 🧠 How it works
 
@@ -24,7 +19,7 @@ The exact interaction will depend on the hardware and software developed for the
 
 ## 🛠️ Technologies
 
-This project is built around a **Raspberry Pi** and will involve:
+This project is built around a **Raspberry Pi 5** and will involve:
 
 * Raspberry Pi
 * Python
@@ -61,4 +56,9 @@ Some possible features:
 * Daily vocabulary challenges
 * A growing vocabulary database
 
+## Authors
+
+Ariadna Crespo Chamorro
+Master’s in Electromechanical Engineering, KU Leuven
+📧 ariadna.crespochamorro@student.kuleuven.be
 
