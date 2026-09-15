@@ -1,5 +1,5 @@
-from vocabulary import load_vocabulary, get_random_word
-from quiz import ask_meaning, ask_pronunciation
+from vocab import load_vocabulary, get_random_word
+from quiz import ask_meaning
 
 
 def start_game(tamagotchi):
@@ -14,13 +14,12 @@ def start_game(tamagotchi):
         word = get_random_word(vocabulary)
 
         print("\n-------------------------")
-        print(f"HSK {word['hsk']}")
+        print(f"HSK {word['HSKLevel']}")
         print("-------------------------")
 
         question_type = input(
             "\nChoose a question:\n"
             "1 - Meaning\n"
-            "2 - Pronunciation\n"
             "q - Quit\n\n"
             "Your choice: "
         )
@@ -28,14 +27,11 @@ def start_game(tamagotchi):
         if question_type == "q":
             break
 
-        if question_type == "1":
+        elif question_type == "1":
             correct = ask_meaning(word)
 
-        elif question_type == "2":
-            correct = ask_pronunciation(word)
-
         else:
-            print("Please choose 1, 2 or q.")
+            print("Please choose 1 or q.")
             continue
 
         if correct:
