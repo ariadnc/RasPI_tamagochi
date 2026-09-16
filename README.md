@@ -26,6 +26,8 @@ RasPI_tamagochi/
 ├── hardware/         # Hardware-related code
 └── assets/           # Images, sounds and other resources
 ```
+Figma file: https://www.figma.com/make/nYe0CNYaGLyPj5lMiKCyAm/Tamagotchi-UI-Design?p=f&t=kRYcSphDqWQfVPpK-0
+
 ## 🛠️ Hardware
 
 This project is built around a **Raspberry Pi 5** and will involve:
