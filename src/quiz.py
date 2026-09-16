@@ -4,9 +4,10 @@ def ask_meaning(word):
 
     answer = input("Your answer: ")
 
-    if answer.lower().strip() == word["English"].lower():
-        print("✅ Correct!")
+    if answer.lower().strip() in word["English"].lower():
+        print(f"✅ Correct! The answer is: {word['English']}")
         return True
     else:
         print(f"❌ Not quite! The answer is: {word['English']}")
         return False
+
